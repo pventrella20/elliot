@@ -63,7 +63,7 @@ class Precision(BaseMetric):
         :param user_relevant_items: list of user relevant items in the form [item1,...]
         :return: the value of the Precision metric for the specific user
         """
-        return sum([self._relevance.get_rel(user, i) for i, _ in user_recommendations[:cutoff]]) / cutoff
+        return sum([self._relevance.get_rel(user, i) for i, _ in user_recommendations[:cutoff]]) / cutoff if len(self._relevance.get_user_rel(user)) else 0
 
     # def eval(self):
     #     """
@@ -81,5 +81,5 @@ class Precision(BaseMetric):
         :return: the overall averaged value of Precision
         """
         return {u: self.__user_precision(u_r, u, self._cutoff)
-             for u, u_r in self._recommendations.items() if len(self._relevance.get_user_rel(u))}
+             for u, u_r in self._recommendations.items()}
 
