@@ -8,6 +8,7 @@ __author__ = 'Vito Walter Anelli, Claudio Pomo'
 __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it'
 
 from .base_recommender_model import BaseRecommenderModel
+from .test_item_strategy import test_item_only_filter
 
 from .latent_factor_models import BPRMF, BPRMF_batch, WRMF, PureSVD, MF, FunkSVD, PMF, LMF, NonNegMF, FM, LogisticMF, \
     FFM, BPRSlim, Slim, CML, FISM, SVDpp
