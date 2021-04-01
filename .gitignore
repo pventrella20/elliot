@@ -22,6 +22,7 @@ pip-selfcheck.json
 /data/*
 !/data/cat_dbpedia_movielens_1m
 !/data/movielens_1m
+!/data/movielens_exp
 /share/
 **/__pycache__/**
 *.log
