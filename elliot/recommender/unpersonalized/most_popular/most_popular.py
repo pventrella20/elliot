@@ -11,6 +11,7 @@ import numpy as np
 from elliot.evaluation.evaluator import Evaluator
 from elliot.recommender.base_recommender_model import BaseRecommenderModel
 from elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.recommender.test_item_strategy import test_item_only_filter
 from elliot.utils.write import store_recommendation
 from elliot.recommender.base_recommender_model import init_charger
 
@@ -67,4 +68,4 @@ class MostPop(RecMixin, BaseRecommenderModel):
                 if len(l) >= local_k:
                     break
             r[u] = l
-        return r
+        return test_item_only_filter(r, self._data.test_dict)

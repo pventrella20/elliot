@@ -8,6 +8,7 @@ import numpy as np
 
 from elliot.recommender.base_recommender_model import BaseRecommenderModel
 from elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.recommender.test_item_strategy import test_item_only_filter
 from elliot.utils.write import store_recommendation
 from elliot.recommender.base_recommender_model import init_charger
 
@@ -61,4 +62,4 @@ class Random(RecMixin, BaseRecommenderModel):
                     j = items[r_int(n_items)]
                 l.append((j, 1))
             r[u] = l
-        return r
+        return test_item_only_filter(r, self._data.test_dict)

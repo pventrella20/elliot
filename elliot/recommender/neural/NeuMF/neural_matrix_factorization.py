@@ -7,11 +7,14 @@ __version__ = '0.1'
 __author__ = 'Vito Walter Anelli, Claudio Pomo'
 __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it'
 
+import time
+
 import numpy as np
 from ast import literal_eval as make_tuple
 from tqdm import tqdm
 
 from elliot.dataset.samplers import pointwise_pos_neg_sampler as pws
+from elliot.recommender import test_item_only_filter
 from elliot.recommender.neural.NeuMF.neural_matrix_factorization_model import NeuralMatrixFactorizationModel
 from elliot.recommender.recommender_utils_mixin import RecMixin
 from elliot.utils.write import store_recommendation
@@ -113,6 +116,7 @@ class NeuMF(RecMixin, BaseRecommenderModel):
                 result_dict = self.evaluator.eval(recs)
                 self._results.append(result_dict)
 
+                time.sleep(1)
                 print(f'Epoch {(it + 1)}/{self._epochs} loss {loss/steps:.5f}')
 
                 if self._results[-1][self._validation_k]["val_results"][self._validation_metric] > best_metric_value:
@@ -138,4 +142,4 @@ class NeuMF(RecMixin, BaseRecommenderModel):
                                   for u_list in list(zip(i.numpy(), v.numpy()))]
             predictions_top_k.update(dict(zip(map(self._data.private_users.get,
                                                   range(offset, offset_stop)), items_ratings_pair)))
-        return predictions_top_k
+        return test_item_only_filter(predictions_top_k, self._data.test_dict)
