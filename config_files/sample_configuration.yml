@@ -1,0 +1,149 @@
+experiment:
+  dataset: movielens_exp
+  data_config:
+      strategy: fixed
+#      train_path: ../data/movielens_exp/test/top_5_predictions_1.tsv
+#      test_path: ../data/movielens_exp/test/test2id.tsv
+      train_path: ../data/movielens_exp/train2id.csv
+#      train_path: ../data/movielens_exp/Graph/TransH_768/top_10_predictions_1.tsv
+#      train_path: ../data/movielens_exp/BERT/concat/concat_lastLayer_nostopwords/top_5_predictions_1.tsv
+#      train_path: ../data/movielens_exp/Graph+BERT/UserBert_ItemGraph/lastLayerNoStopwUser_DistMultItem/top_10_predictions_1.tsv
+#      train_path: ../data/movielens_exp/MostPop.tsv
+#      test_path: ../data/movielens_exp/test (copy).tsv
+      test_path: ../data/movielens_exp/test2id.csv
+      dataLoader: DataSetLoader
+
+  top_k: 1000  # takes an int representing the list length
+  evaluation:
+    cutoffs: [5, 10]  # maximum length of the recommendation list we want to consider when computing the metric
+    simple_metrics: [Precision,Recall,MavF1,nDcg,MRR]
+    relevance_threshold: 1  # minimum value of the rating to consider a test transaction relevant for the evaluation process
+  #print_results_as_triplets: True  # generate the evaluation tables with the format: [method,metric,value]
+  gpu: 0  # enable GPU acceleration with Tensorflow
+  #config_test: True  # tests our configuration file before the actual run of the experiment
+  external_models_path: ../external/models/__init__.py
+  models:
+#    external.Bypass:
+#      meta:
+#        save_recs: False
+#    PMF:
+#      meta:
+#        save_recs: True
+#      epochs: 10
+#      batch_size: 512
+#      factors: 50
+#      lr: 0.001
+#      reg: 0.0025
+#      gaussian_variance: 0.1
+#    NonNegMF:
+#      meta:
+#        save_recs: True
+#      epochs: 10
+#      batch_size: 512
+#      factors: 10
+#      lr: 0.001
+#      reg: 0.1
+#    FISM:
+#      meta:
+#        save_recs: True
+#      epochs: 10
+#      batch_size: 512
+#      factors: 10
+#      lr: 0.001
+#      l_w: 0.001
+#      l_b: 0.001
+#      alpha: 0.5
+#      neg_ratio:
+#    BPRMF:
+#      meta:
+#        save_recs: True
+#      epochs: 10
+#      factors: 10
+#      lr: 0.001
+#      bias_regularization: 0
+#      user_regularization: 0.0025
+#      positive_item_regularization: 0.0025
+#      negative_item_regularization: 0.0025
+#      update_negative_item_factors: True
+#      update_users: True
+#      update_items: True
+#      update_bias: True
+#    NeuMF:
+#      meta:
+#        hyper_max_evals: 5
+#        hyper_opt_alg: tpe
+#      lr: [ loguniform, -10, -1 ]
+#      batch_size: [ 128, 256, 512 ]
+#      epochs: 15
+#      mf_factors: [ quniform, 8, 32, 1 ]
+#      mlp_factors: [ 8, 16 ]
+#      mlp_hidden_size: [ (32, 16, 8), (64, 32, 16) ]
+#      prob_keep_dropout: 0.2
+#      is_mf_train: True
+#      is_mlp_train: True
+#    ItemKNN:
+#      meta:
+#        save_recs: True
+#      neighbors: 50
+#      similarity: cosine
+#      implementation: aiolli
+#    UserKNN:
+#      meta:
+#        save_recs: True
+#      neighbors: 50
+#      similarity: cosine
+#    SlopeOne:
+#      meta:
+#        save_recs: True
+#    PureSVD:
+#      meta:
+#        save_recs: True
+#      factors: 10
+#      seed: 42
+    MF:
+      meta:
+        save_recs: True
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+      epochs: [5, 10, 15]
+      batch_size: [128, 256, 512]
+      factors: [5, 10, 15, 20]
+      lr: [loguniform, -10, -1 ]
+      reg: 0.1
+#    FM:
+#      meta:
+#        save_recs: True
+#      epochs: 15
+#      batch_size: 512
+#      factors: 10
+#      lr: 0.001
+#      reg: 0.1
+#    SVDpp:
+#      meta:
+#        save_recs: True
+#      epochs: 10
+#      batch_size: 512
+#      factors: 50
+#      lr: 0.001
+#      reg_w: 0.1
+#      reg_b: 0.001
+#    CML:
+#      meta:
+#        save_recs: True
+#      epochs: 10
+#      batch_size: 512
+#      factors: 10
+#      lr: 0.001
+#      l_w: 0.001
+#      l_b: 0.001
+#      margin: 0.5
+    Random:
+      meta:
+        verbose: True
+        save_recs: True
+      seed: 42
+    MostPop:
+      meta:
+        verbose: True
+        save_recs: True
+
