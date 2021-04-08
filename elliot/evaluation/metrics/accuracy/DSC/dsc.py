@@ -8,7 +8,7 @@ __author__ = 'Vito Walter Anelli, Claudio Pomo, Alejandro Bellogín'
 __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it, alejandro.bellogin@uam.es'
 
 import importlib
-from elliot.elliot.elliot.evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot..evaluation.metrics.base_metric import BaseMetric
 # import elliot.elliot.evaluation.metrics as metrics
 
 

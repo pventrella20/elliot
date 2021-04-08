@@ -12,7 +12,7 @@ from datetime import datetime
 import json
 from enum import Enum
 
-from elliot.elliot.elliot.evaluation.statistical_significance import PairedTTest, WilcoxonTest
+from elliot.elliot.evaluation.statistical_significance import PairedTTest, WilcoxonTest
 
 _eval_results = "test_results"
 _eval_statistical_results = "test_statistical_results"

@@ -12,7 +12,7 @@ import math
 import typing as t
 import numpy as np
 import pandas as pd
-from elliot.elliot.elliot.evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot..evaluation.metrics.base_metric import BaseMetric
 
 
 class UserMADranking(BaseMetric):

@@ -3,7 +3,7 @@ Module description:
 
 """
 import logging as pylog
-from elliot.elliot.elliot.evaluation.evaluator import Evaluator
+from elliot.elliot..evaluation.evaluator import Evaluator
 from elliot.elliot.utils.folder import build_model_folder
 
 __version__ = '0.1'
