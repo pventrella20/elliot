@@ -9,7 +9,7 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it'
 
 from abc import ABC, abstractmethod, abstractproperty
 
-from elliot.elliot.elliot.namespace.namespace_model import NameSpaceModel
+from elliot.elliot.namespace.namespace_model import NameSpaceModel
 
 
 class Builder(ABC):
