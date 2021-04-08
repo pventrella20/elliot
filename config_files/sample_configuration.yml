@@ -12,14 +12,17 @@ experiment:
 #      test_path: ../data/movielens_exp/test (copy).tsv
       test_path: ../data/movielens_exp/test2id.csv
       dataLoader: DataSetLoader
+      side_information:
+        features: ../data/movielens_exp/side_informations/feat.tsv
+        map: ../data/movielens_exp/side_informations/mapped.tsv
 
-  top_k: 1000  # takes an int representing the list length
+  top_k: 10  # takes an int representing the list length
   evaluation:
     cutoffs: [5, 10]  # maximum length of the recommendation list we want to consider when computing the metric
     simple_metrics: [Precision,Recall,MavF1,nDcg,MRR]
     relevance_threshold: 1  # minimum value of the rating to consider a test transaction relevant for the evaluation process
   #print_results_as_triplets: True  # generate the evaluation tables with the format: [method,metric,value]
-  gpu: 0  # enable GPU acceleration with Tensorflow
+  gpu: -1  # enable GPU acceleration with Tensorflow
   #config_test: True  # tests our configuration file before the actual run of the experiment
   external_models_path: ../external/models/__init__.py
   models:
@@ -100,24 +103,24 @@ experiment:
 #        save_recs: True
 #      factors: 10
 #      seed: 42
-    MF:
-      meta:
-        save_recs: True
-        hyper_max_evals: 20
-        hyper_opt_alg: tpe
-      epochs: [5, 10, 15]
-      batch_size: [128, 256, 512]
-      factors: [5, 10, 15, 20]
-      lr: [loguniform, -10, -1 ]
-      reg: 0.1
-#    FM:
+#    MF:
 #      meta:
 #        save_recs: True
-#      epochs: 15
-#      batch_size: 512
-#      factors: 10
-#      lr: 0.001
+#        hyper_max_evals: 20
+#        hyper_opt_alg: tpe
+#      epochs: [5, 10, 15]
+#      batch_size: [128, 256, 512]
+#      factors: [5, 10, 15, 20]
+#      lr: [loguniform, -10, -1 ]
 #      reg: 0.1
+    FM:
+      meta:
+        save_recs: True
+      epochs: 15
+      batch_size: 512
+      factors: 10
+      lr: 0.001
+      reg: 0.1
 #    SVDpp:
 #      meta:
 #        save_recs: True
