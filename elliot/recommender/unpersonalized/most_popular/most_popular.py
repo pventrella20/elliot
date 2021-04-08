@@ -8,7 +8,7 @@ import operator
 
 import numpy as np
 
-from elliot.elliot..evaluation.evaluator import Evaluator
+from elliot.elliot.evaluation.evaluator import Evaluator
 from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
 from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
 from elliot.elliot.recommender.test_item_strategy import test_item_only_filter

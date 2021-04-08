@@ -9,8 +9,8 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it, alejandro.bell
 
 import importlib
 import numpy as np
-from elliot.elliot..evaluation.metrics.base_metric import BaseMetric
-from elliot.elliot..evaluation.metrics.metrics_utils import ProxyStatisticalMetric
+from elliot.elliot.evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot.evaluation.metrics.metrics_utils import ProxyStatisticalMetric
 # import elliot.elliot.evaluation.metrics as metrics
 
 

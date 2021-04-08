@@ -15,7 +15,7 @@ from tqdm import tqdm
 
 from elliot.elliot.dataset.samplers import custom_sampler as cs
 from elliot.elliot.recommender.base_recommender_model import init_charger
-from elliot.elliot..evaluation.evaluator import Evaluator
+from elliot.elliot.evaluation.evaluator import Evaluator
 from elliot.elliot.recommender import BaseRecommenderModel
 from elliot.elliot.recommender.adversarial.AMR.AMR_model import AMR_model
 from elliot.elliot.recommender.recommender_utils_mixin import RecMixin

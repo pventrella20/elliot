@@ -12,8 +12,8 @@ import pandas as pd
 
 from collections import Counter
 
-from elliot.elliot..evaluation.metrics.base_metric import BaseMetric
-from elliot.elliot..evaluation.metrics.metrics_utils import ProxyMetric
+from elliot.elliot.evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot.evaluation.metrics.metrics_utils import ProxyMetric
 
 class BiasDisparityBS(BaseMetric):
     r"""

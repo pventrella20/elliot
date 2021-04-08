@@ -9,7 +9,7 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it'
 
 import math
 
-from elliot.elliot..evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot.evaluation.metrics.base_metric import BaseMetric
 
 
 class ShannonEntropy(BaseMetric):
