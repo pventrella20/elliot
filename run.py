@@ -33,7 +33,7 @@ def run_experiment(config_path: str = './config/config.yml'):
     base.base_namespace.evaluation.relevance_threshold = getattr(base.base_namespace.evaluation, "relevance_threshold", 0)
     res_handler = ResultHandler(rel_threshold=base.base_namespace.evaluation.relevance_threshold)
     hyper_handler = HyperParameterStudy(rel_threshold=base.base_namespace.evaluation.relevance_threshold)
-    dataloader_class = getattr(importlib.import_module("elliot.dataset"), base.base_namespace.data_config.dataloader)
+    dataloader_class = getattr(importlib.import_module("elliot.dataset.dataset"), base.base_namespace.data_config.dataloader)
     dataloader = dataloader_class(config=base.base_namespace)
     data_test_list = dataloader.generate_dataobjects()
     for key, model_base in builder.models():
