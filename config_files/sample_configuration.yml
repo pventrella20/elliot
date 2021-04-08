@@ -16,13 +16,13 @@ experiment:
         features: ../data/movielens_exp/side_informations/feat.tsv
         map: ../data/movielens_exp/side_informations/mapped.tsv
 
-  top_k: 10  # takes an int representing the list length
+  top_k: 3000  # takes an int representing the list length
   evaluation:
     cutoffs: [5, 10]  # maximum length of the recommendation list we want to consider when computing the metric
     simple_metrics: [Precision,Recall,MavF1,nDcg,MRR]
     relevance_threshold: 1  # minimum value of the rating to consider a test transaction relevant for the evaluation process
   #print_results_as_triplets: True  # generate the evaluation tables with the format: [method,metric,value]
-  gpu: -1  # enable GPU acceleration with Tensorflow
+  gpu: 1  # enable GPU acceleration with Tensorflow
   #config_test: True  # tests our configuration file before the actual run of the experiment
   external_models_path: ../external/models/__init__.py
   models:
