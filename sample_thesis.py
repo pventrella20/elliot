@@ -6,4 +6,4 @@ import os
 
 from elliot.run import run_experiment
 
-run_experiment("config_files/sample_configuration.yml")
+run_experiment("/content/elliot/config_files/sample_configuration.yml")
