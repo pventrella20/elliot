@@ -14,10 +14,10 @@ from os import path
 import numpy as np
 from hyperopt import Trials, fmin
 
-import elliot.hyperoptimization as ho
-from elliot.namespace.namespace_model_builder import NameSpaceBuilder
-from elliot.result_handler.result_handler import ResultHandler, HyperParameterStudy, StatTest
-from elliot.utils import logging as logging_project
+import elliot.elliot.hyperoptimization as ho
+from elliot.elliot.elliot.namespace.namespace_model_builder import NameSpaceBuilder
+from elliot.elliot.elliot.result_handler.result_handler import ResultHandler, HyperParameterStudy, StatTest
+from elliot.elliot.utils import logging as logging_project
 
 _rstate = np.random.RandomState(42)
 here = path.abspath(path.dirname(__file__))

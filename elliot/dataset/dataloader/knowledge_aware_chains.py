@@ -16,9 +16,9 @@ from collections import Counter
 from types import SimpleNamespace
 import logging as pylog
 
-from elliot.utils import logging
-from elliot.splitter.base_splitter import Splitter
-from elliot.prefiltering.standard_prefilters import PreFilter
+from elliot.elliot.utils import logging
+from elliot.elliot.splitter.base_splitter import Splitter
+from elliot.elliot.prefiltering.standard_prefilters import PreFilter
 
 """
 [(train_0,test_0)]

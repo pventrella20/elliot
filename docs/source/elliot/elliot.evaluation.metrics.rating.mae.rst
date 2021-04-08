@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.rating.mae package
+elliot.elliot.evaluation.metrics.rating.mae package
 ============================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.rating.mae.mae module
+elliot.elliot.evaluation.metrics.rating.mae.mae module
 -----------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.rating.mae.mae
+.. automodule:: elliot.elliot.evaluation.metrics.rating.mae.mae
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.rating.mae.mae module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.rating.mae
+.. automodule:: elliot.elliot.evaluation.metrics.rating.mae
    :members:
    :undoc-members:
    :show-inheritance:

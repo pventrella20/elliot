@@ -13,14 +13,14 @@ import numpy as np
 from ast import literal_eval as make_tuple
 from tqdm import tqdm
 
-from elliot.dataset.samplers import pointwise_pos_neg_sampler as pws
-from elliot.recommender import test_item_only_filter
-from elliot.recommender.neural.NeuMF.neural_matrix_factorization_model import NeuralMatrixFactorizationModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import pointwise_pos_neg_sampler as pws
+from elliot.elliot.recommender import test_item_only_filter
+from elliot.elliot.recommender.neural.NeuMF.neural_matrix_factorization_model import NeuralMatrixFactorizationModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 

@@ -71,12 +71,12 @@ in control of the framework.
 
    elliot/elliot
    elliot/elliot.dataset
-   elliot/elliot.evaluation
-   elliot/elliot.namespace
-   elliot/elliot.hyperoptimization
+   elliot/elliot.elliot.evaluation
+   elliot/elliot.elliot.namespace
+   elliot/elliot.elliot.hyperoptimization
    elliot/elliot.prefiltering
    elliot/elliot.recommender
-   elliot/elliot.result_handler
+   elliot/elliot.elliot.result_handler
    elliot/elliot.splitter
    elliot/elliot.utils
 

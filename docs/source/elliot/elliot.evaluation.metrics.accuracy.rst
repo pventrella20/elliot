@@ -1,4 +1,4 @@
-elliot.evaluation.metrics.accuracy package
+elliot.elliot.evaluation.metrics.accuracy package
 ==========================================
 
 Subpackages
@@ -7,21 +7,21 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   elliot.evaluation.metrics.accuracy.AUC
-   elliot.evaluation.metrics.accuracy.DSC
-   elliot.evaluation.metrics.accuracy.f1
-   elliot.evaluation.metrics.accuracy.hit_rate
-   elliot.evaluation.metrics.accuracy.map
-   elliot.evaluation.metrics.accuracy.mar
-   elliot.evaluation.metrics.accuracy.mrr
-   elliot.evaluation.metrics.accuracy.ndcg
-   elliot.evaluation.metrics.accuracy.precision
-   elliot.evaluation.metrics.accuracy.recall
+   elliot.elliot.evaluation.metrics.accuracy.AUC
+   elliot.elliot.evaluation.metrics.accuracy.DSC
+   elliot.elliot.evaluation.metrics.accuracy.f1
+   elliot.elliot.evaluation.metrics.accuracy.hit_rate
+   elliot.elliot.evaluation.metrics.accuracy.map
+   elliot.elliot.evaluation.metrics.accuracy.mar
+   elliot.elliot.evaluation.metrics.accuracy.mrr
+   elliot.elliot.evaluation.metrics.accuracy.ndcg
+   elliot.elliot.evaluation.metrics.accuracy.precision
+   elliot.elliot.evaluation.metrics.accuracy.recall
 
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy
    :members:
    :undoc-members:
    :show-inheritance:

@@ -14,10 +14,10 @@ import scipy.sparse as sp
 import typing as t
 import logging as pylog
 
-from elliot.dataset.abstract_dataset import AbstractDataset
-from elliot.splitter.base_splitter import Splitter
-from elliot.prefiltering.standard_prefilters import PreFilter
-from elliot.utils import logging
+from elliot.elliot.dataset.abstract_dataset import AbstractDataset
+from elliot.elliot.splitter.base_splitter import Splitter
+from elliot.elliot.prefiltering.standard_prefilters import PreFilter
+from elliot.elliot.utils import logging
 
 
 class DataSetLoader:

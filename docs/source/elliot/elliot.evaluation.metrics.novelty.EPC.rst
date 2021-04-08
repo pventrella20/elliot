@@ -1,21 +1,21 @@
-elliot.evaluation.metrics.novelty.EPC package
+elliot.elliot.evaluation.metrics.novelty.EPC package
 =============================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.novelty.EPC.epc module
+elliot.elliot.evaluation.metrics.novelty.EPC.epc module
 ------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.novelty.EPC.epc
+.. automodule:: elliot.elliot.evaluation.metrics.novelty.EPC.epc
    :members:
    :undoc-members:
    :show-inheritance:
 
-elliot.evaluation.metrics.novelty.EPC.extended\_epc module
+elliot.elliot.evaluation.metrics.novelty.EPC.extended\_epc module
 ----------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.novelty.EPC.extended_epc
+.. automodule:: elliot.elliot.evaluation.metrics.novelty.EPC.extended_epc
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ elliot.evaluation.metrics.novelty.EPC.extended\_epc module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.novelty.EPC
+.. automodule:: elliot.elliot.evaluation.metrics.novelty.EPC
    :members:
    :undoc-members:
    :show-inheritance:

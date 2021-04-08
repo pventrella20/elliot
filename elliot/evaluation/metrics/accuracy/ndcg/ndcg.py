@@ -9,7 +9,7 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it, alejandro.bell
 
 import typing as t
 
-from elliot.evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot.elliot.evaluation.metrics.base_metric import BaseMetric
 
 
 class NDCG(BaseMetric):

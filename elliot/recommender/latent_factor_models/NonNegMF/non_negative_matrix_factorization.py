@@ -10,12 +10,12 @@ __email__ = 'felice.merra@poliba.it, vitowalter.anelli@poliba.it, claudio.pomo@p
 import numpy as np
 import pickle
 
-from elliot.recommender.latent_factor_models.NonNegMF.non_negative_matrix_factorization_model import NonNegMFModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.recommender.latent_factor_models.NonNegMF.non_negative_matrix_factorization_model import NonNegMFModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 

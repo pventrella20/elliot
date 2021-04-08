@@ -1,13 +1,13 @@
-elliot.evaluation.relevance package
+elliot.elliot.evaluation.relevance package
 ===================================
 
 Submodules
 ----------
 
-elliot.evaluation.relevance.relevance module
+elliot.elliot.evaluation.relevance.relevance module
 --------------------------------------------
 
-.. automodule:: elliot.evaluation.relevance.relevance
+.. automodule:: elliot.elliot.evaluation.relevance.relevance
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.relevance.relevance module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.relevance
+.. automodule:: elliot.elliot.evaluation.relevance
    :members:
    :undoc-members:
    :show-inheritance:

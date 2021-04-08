@@ -13,14 +13,14 @@ import numpy as np
 import tensorflow as tf
 from tqdm import tqdm
 
-from elliot.dataset.samplers import custom_sampler as cs
-from elliot.recommender.base_recommender_model import init_charger
-from elliot.evaluation.evaluator import Evaluator
-from elliot.recommender import BaseRecommenderModel
-from elliot.recommender.adversarial.AMR.AMR_model import AMR_model
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.folder import build_model_folder
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import custom_sampler as cs
+from elliot.elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.elliot.evaluation.evaluator import Evaluator
+from elliot.elliot.recommender import BaseRecommenderModel
+from elliot.elliot.recommender.adversarial.AMR.AMR_model import AMR_model
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.folder import build_model_folder
+from elliot.elliot.utils.write import store_recommendation
 
 np.random.seed(0)
 tf.random.set_seed(0)

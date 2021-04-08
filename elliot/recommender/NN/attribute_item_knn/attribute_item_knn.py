@@ -11,13 +11,13 @@ import numpy as np
 import pickle
 import time
 
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 import scipy.sparse as sp
 
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.NN.attribute_item_knn.attribute_item_knn_similarity import Similarity
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.NN.attribute_item_knn.attribute_item_knn_similarity import Similarity
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 

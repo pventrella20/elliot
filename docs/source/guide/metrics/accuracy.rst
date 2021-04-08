@@ -6,7 +6,7 @@ Elliot integrates the following accuracy metrics.
 Summary
 ~~~~~~~~~~~~~~~~
 
-.. py:module:: elliot.evaluation.metrics.accuracy
+.. py:module:: elliot.elliot.evaluation.metrics.accuracy
 .. autosummary::
     AUC.auc.AUC
     AUC.gauc.GAUC
@@ -24,78 +24,78 @@ Summary
 
 AUC
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.AUC.auc
+.. module:: elliot.elliot.evaluation.metrics.accuracy.AUC.auc
 .. autoclass:: AUC
     :show-inheritance:
 
 GAUC
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.AUC.gauc
+.. module:: elliot.elliot.evaluation.metrics.accuracy.AUC.gauc
 .. autoclass:: GAUC
     :show-inheritance:
 
 LAUC
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.AUC.lauc
+.. module:: elliot.elliot.evaluation.metrics.accuracy.AUC.lauc
 .. autoclass:: LAUC
     :show-inheritance:
 
 DSC
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.DSC.dsc
+.. module:: elliot.elliot.evaluation.metrics.accuracy.DSC.dsc
 .. autoclass:: DSC
     :show-inheritance:
 
 F1
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.f1.f1
+.. module:: elliot.elliot.evaluation.metrics.accuracy.f1.f1
 .. autoclass:: F1
     :show-inheritance:
 
 Extended F1
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.f1.extended_f1
+.. module:: elliot.elliot.evaluation.metrics.accuracy.f1.extended_f1
 .. autoclass:: ExtendedF1
     :show-inheritance:
 
 HR
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.hit_rate.hit_rate
+.. module:: elliot.elliot.evaluation.metrics.accuracy.hit_rate.hit_rate
 .. autoclass:: HR
     :show-inheritance:
 
 MAP
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.map.map
+.. module:: elliot.elliot.evaluation.metrics.accuracy.map.map
 .. autoclass:: MAP
     :show-inheritance:
 
 MAR
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.mar.mar
+.. module:: elliot.elliot.evaluation.metrics.accuracy.mar.mar
 .. autoclass:: MAR
     :show-inheritance:
 
 MRR
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.mrr.mrr
+.. module:: elliot.elliot.evaluation.metrics.accuracy.mrr.mrr
 .. autoclass:: MRR
     :show-inheritance:
 
 nDCG
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.ndcg.ndcg
+.. module:: elliot.elliot.evaluation.metrics.accuracy.ndcg.ndcg
 .. autoclass:: NDCG
     :show-inheritance:
 
 Precision
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.precision.precision
+.. module:: elliot.elliot.evaluation.metrics.accuracy.precision.precision
 .. autoclass:: Precision
     :show-inheritance:
 
 Recall
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.accuracy.recall.recall
+.. module:: elliot.elliot.evaluation.metrics.accuracy.recall.recall
 .. autoclass:: Recall
     :show-inheritance:

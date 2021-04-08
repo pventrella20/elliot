@@ -12,7 +12,7 @@ import typing as t
 import numpy as np
 import logging as pylog
 
-from elliot.utils import logging
+from elliot.elliot.utils import logging
 
 from hyperopt import STATUS_OK
 

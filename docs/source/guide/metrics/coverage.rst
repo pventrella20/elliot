@@ -6,7 +6,7 @@ Elliot integrates the following coverage metrics.
 Summary
 ~~~~~~~~~~~~~~~~
 
-.. py:module:: elliot.evaluation.metrics.coverage
+.. py:module:: elliot.elliot.evaluation.metrics.coverage
 .. autosummary::
     item_coverage.item_coverage.ItemCoverage
     num_retrieved.num_retrieved.NumRetrieved
@@ -15,24 +15,24 @@ Summary
 
 Item Coverage
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.coverage.item_coverage.item_coverage
+.. module:: elliot.elliot.evaluation.metrics.coverage.item_coverage.item_coverage
 .. autoclass:: ItemCoverage
     :show-inheritance:
 
 Number of Recommendations Retrieved
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.coverage.num_retrieved.num_retrieved
+.. module:: elliot.elliot.evaluation.metrics.coverage.num_retrieved.num_retrieved
 .. autoclass:: NumRetrieved
     :show-inheritance:
 
 User Coverage
 ~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.coverage.user_coverage.user_coverage
+.. module:: elliot.elliot.evaluation.metrics.coverage.user_coverage.user_coverage
 .. autoclass:: UserCoverage
     :show-inheritance:
 
 User Coverage At N
 ~~~~~~~~~~~~~~~~~~~~~
-.. module:: elliot.evaluation.metrics.coverage.user_coverage.user_coverage_at_n
+.. module:: elliot.elliot.evaluation.metrics.coverage.user_coverage.user_coverage_at_n
 .. autoclass:: UserCoverageAtN
     :show-inheritance:

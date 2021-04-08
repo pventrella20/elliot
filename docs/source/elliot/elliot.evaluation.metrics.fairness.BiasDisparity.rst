@@ -1,29 +1,29 @@
-elliot.evaluation.metrics.fairness.BiasDisparity package
+elliot.elliot.evaluation.metrics.fairness.BiasDisparity package
 ========================================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBD module
+elliot.elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBD module
 -----------------------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBD
+.. automodule:: elliot.elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBD
    :members:
    :undoc-members:
    :show-inheritance:
 
-elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBR module
+elliot.elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBR module
 -----------------------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBR
+.. automodule:: elliot.elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBR
    :members:
    :undoc-members:
    :show-inheritance:
 
-elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBS module
+elliot.elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBS module
 -----------------------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBS
+.. automodule:: elliot.elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBS
    :members:
    :undoc-members:
    :show-inheritance:
@@ -31,7 +31,7 @@ elliot.evaluation.metrics.fairness.BiasDisparity.BiasDisparityBS module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.fairness.BiasDisparity
+.. automodule:: elliot.elliot.evaluation.metrics.fairness.BiasDisparity
    :members:
    :undoc-members:
    :show-inheritance:

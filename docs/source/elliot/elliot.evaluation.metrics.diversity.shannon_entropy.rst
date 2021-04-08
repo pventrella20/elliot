@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.diversity.shannon\_entropy package
+elliot.elliot.evaluation.metrics.diversity.shannon\_entropy package
 ============================================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.diversity.shannon\_entropy.shannon\_entropy module
+elliot.elliot.evaluation.metrics.diversity.shannon\_entropy.shannon\_entropy module
 ----------------------------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.diversity.shannon_entropy.shannon_entropy
+.. automodule:: elliot.elliot.evaluation.metrics.diversity.shannon_entropy.shannon_entropy
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.diversity.shannon\_entropy.shannon\_entropy module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.diversity.shannon_entropy
+.. automodule:: elliot.elliot.evaluation.metrics.diversity.shannon_entropy
    :members:
    :undoc-members:
    :show-inheritance:

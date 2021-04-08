@@ -12,12 +12,12 @@ from ast import literal_eval as make_tuple
 import numpy as np
 from tqdm import tqdm
 
-from elliot.dataset.samplers import custom_sampler as cs
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.base_recommender_model import init_charger
-from elliot.recommender.neural.NPR.neural_personalized_ranking_model import NPRModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import custom_sampler as cs
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.neural.NPR.neural_personalized_ranking_model import NPRModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
 np.random.seed(42)
 

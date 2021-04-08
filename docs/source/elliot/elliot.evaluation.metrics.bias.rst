@@ -1,4 +1,4 @@
-elliot.evaluation.metrics.bias package
+elliot.elliot.evaluation.metrics.bias package
 ======================================
 
 Subpackages
@@ -7,16 +7,16 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   elliot.evaluation.metrics.bias.aclt
-   elliot.evaluation.metrics.bias.aplt
-   elliot.evaluation.metrics.bias.arp
-   elliot.evaluation.metrics.bias.pop_reo
-   elliot.evaluation.metrics.bias.pop_rsp
+   elliot.elliot.evaluation.metrics.bias.aclt
+   elliot.elliot.evaluation.metrics.bias.aplt
+   elliot.elliot.evaluation.metrics.bias.arp
+   elliot.elliot.evaluation.metrics.bias.pop_reo
+   elliot.elliot.evaluation.metrics.bias.pop_rsp
 
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.bias
+.. automodule:: elliot.elliot.evaluation.metrics.bias
    :members:
    :undoc-members:
    :show-inheritance:

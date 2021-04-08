@@ -9,9 +9,9 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it, alejandro.bell
 
 import importlib
 import numpy as np
-from elliot.evaluation.metrics.base_metric import BaseMetric
-from elliot.evaluation.metrics.metrics_utils import ProxyStatisticalMetric
-# import elliot.evaluation.metrics as metrics
+from elliot.elliot.elliot.evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot.elliot.evaluation.metrics.metrics_utils import ProxyStatisticalMetric
+# import elliot.elliot.evaluation.metrics as metrics
 
 
 class ExtendedF1(BaseMetric):
@@ -56,7 +56,7 @@ class ExtendedF1(BaseMetric):
         self._beta = 1 # F-score is the Sørensen-Dice (DSC) coefficient with beta equal to 1
         self._squared_beta = self._beta**2
 
-        parse_metric_func = importlib.import_module("elliot.evaluation.metrics").parse_metric
+        parse_metric_func = importlib.import_module("elliot.elliot.evaluation.metrics").parse_metric
 
         self._metric_0 = self._additional_data.get("metric_0", False)
         self._metric_1 = self._additional_data.get("metric_1", False)

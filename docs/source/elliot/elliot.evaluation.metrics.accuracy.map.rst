@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.accuracy.map package
+elliot.elliot.evaluation.metrics.accuracy.map package
 ==============================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.accuracy.map.map module
+elliot.elliot.evaluation.metrics.accuracy.map.map module
 -------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.map.map
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.map.map
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.accuracy.map.map module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.map
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.map
    :members:
    :undoc-members:
    :show-inheritance:

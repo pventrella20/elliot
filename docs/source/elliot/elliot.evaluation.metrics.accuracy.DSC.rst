@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.accuracy.DSC package
+elliot.elliot.evaluation.metrics.accuracy.DSC package
 ==============================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.accuracy.DSC.dsc module
+elliot.elliot.evaluation.metrics.accuracy.DSC.dsc module
 -------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.DSC.dsc
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.DSC.dsc
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.accuracy.DSC.dsc module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.DSC
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.DSC
    :members:
    :undoc-members:
    :show-inheritance:

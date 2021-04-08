@@ -15,13 +15,13 @@ import time
 import numpy as np
 from tqdm import tqdm
 
-from elliot.dataset.samplers import pointwise_pos_neg_ratings_sampler as pws
-from elliot.recommender import test_item_only_filter
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.latent_factor_models.FM.factorization_machine_model import FactorizationMachineModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.dataset.samplers import pointwise_pos_neg_ratings_sampler as pws
+from elliot.elliot.recommender import test_item_only_filter
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.latent_factor_models.FM.factorization_machine_model import FactorizationMachineModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
+from elliot.elliot.recommender.base_recommender_model import init_charger
 np.random.seed(42)
 
 

@@ -16,12 +16,12 @@ from tqdm import tqdm
 
 from ast import literal_eval as make_tuple
 
-from elliot.dataset.samplers import pointwise_pos_neg_ratings_sampler as pws
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.neural.NFM.neural_fm_model import NeuralFactorizationMachineModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.dataset.samplers import pointwise_pos_neg_ratings_sampler as pws
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.neural.NFM.neural_fm_model import NeuralFactorizationMachineModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
+from elliot.elliot.recommender.base_recommender_model import init_charger
 np.random.seed(42)
 
 

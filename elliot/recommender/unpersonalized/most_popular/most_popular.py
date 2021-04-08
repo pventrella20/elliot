@@ -8,12 +8,12 @@ import operator
 
 import numpy as np
 
-from elliot.evaluation.evaluator import Evaluator
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.recommender.test_item_strategy import test_item_only_filter
-from elliot.utils.write import store_recommendation
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.elliot.evaluation.evaluator import Evaluator
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.recommender.test_item_strategy import test_item_only_filter
+from elliot.elliot.utils.write import store_recommendation
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(0)
 

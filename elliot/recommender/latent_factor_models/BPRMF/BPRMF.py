@@ -12,11 +12,11 @@ import time
 
 import numpy as np
 
-from elliot.dataset.samplers import pairwise_sampler as ps
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.base_recommender_model import init_charger
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import pairwise_sampler as ps
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
 np.random.seed(42)
 

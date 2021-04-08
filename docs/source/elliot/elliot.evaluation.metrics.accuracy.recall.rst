@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.accuracy.recall package
+elliot.elliot.evaluation.metrics.accuracy.recall package
 =================================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.accuracy.recall.recall module
+elliot.elliot.evaluation.metrics.accuracy.recall.recall module
 -------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.recall.recall
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.recall.recall
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.accuracy.recall.recall module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.recall
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.recall
    :members:
    :undoc-members:
    :show-inheritance:

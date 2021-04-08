@@ -13,7 +13,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow import keras
 
-from elliot.recommender.visual_recommenders.DVBPR.FeatureExtractor import FeatureExtractor
+from elliot.elliot.recommender.visual_recommenders.DVBPR.FeatureExtractor import FeatureExtractor
 
 tf.random.set_seed(42)
 os.environ['TF_FORCE_GPU_ALLOW_GROWTH'] = 'true'

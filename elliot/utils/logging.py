@@ -7,7 +7,7 @@ import sys
 import yaml
 import re
 
-from elliot.utils.folder import build_log_folder
+from elliot.elliot.utils.folder import build_log_folder
 
 
 class TimeFilter(logging.Filter):

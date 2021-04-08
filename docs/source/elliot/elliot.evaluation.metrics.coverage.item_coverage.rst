@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.coverage.item\_coverage package
+elliot.elliot.evaluation.metrics.coverage.item\_coverage package
 =========================================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.coverage.item\_coverage.item\_coverage module
+elliot.elliot.evaluation.metrics.coverage.item\_coverage.item\_coverage module
 -----------------------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.coverage.item_coverage.item_coverage
+.. automodule:: elliot.elliot.evaluation.metrics.coverage.item_coverage.item_coverage
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.coverage.item\_coverage.item\_coverage module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.coverage.item_coverage
+.. automodule:: elliot.elliot.evaluation.metrics.coverage.item_coverage
    :members:
    :undoc-members:
    :show-inheritance:

@@ -8,8 +8,8 @@ __author__ = 'Vito Walter Anelli, Claudio Pomo, Alejandro Bellogín'
 __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it, alejandro.bellogin@uam.es'
 
 import importlib
-from elliot.evaluation.metrics.base_metric import BaseMetric
-# import elliot.evaluation.metrics as metrics
+from elliot.elliot.elliot.evaluation.metrics.base_metric import BaseMetric
+# import elliot.elliot.evaluation.metrics as metrics
 
 
 class DSC(BaseMetric):
@@ -54,7 +54,7 @@ class DSC(BaseMetric):
         self._beta = self._additional_data.get("beta", 1)
         self._squared_beta = self._beta**2
 
-        metric_lib = importlib.import_module("elliot.evaluation.metrics")
+        metric_lib = importlib.import_module("elliot.elliot.evaluation.metrics")
 
         self._metric_0 = self._additional_data.get("metric_0", False)
         self._metric_1 = self._additional_data.get("metric_1", False)

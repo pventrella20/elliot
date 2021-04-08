@@ -7,7 +7,7 @@ import os
 
 from types import SimpleNamespace
 
-from elliot.utils.folder import create_folder_by_index
+from elliot.elliot.utils.folder import create_folder_by_index
 
 """        
 data_config:

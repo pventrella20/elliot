@@ -1,4 +1,4 @@
-elliot.evaluation.metrics.fairness package
+elliot.elliot.evaluation.metrics.fairness package
 ==========================================
 
 Subpackages
@@ -7,15 +7,15 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   elliot.evaluation.metrics.fairness.BiasDisparity
-   elliot.evaluation.metrics.fairness.MAD
-   elliot.evaluation.metrics.fairness.reo
-   elliot.evaluation.metrics.fairness.rsp
+   elliot.elliot.evaluation.metrics.fairness.BiasDisparity
+   elliot.elliot.evaluation.metrics.fairness.MAD
+   elliot.elliot.evaluation.metrics.fairness.reo
+   elliot.elliot.evaluation.metrics.fairness.rsp
 
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.fairness
+.. automodule:: elliot.elliot.evaluation.metrics.fairness
    :members:
    :undoc-members:
    :show-inheritance:

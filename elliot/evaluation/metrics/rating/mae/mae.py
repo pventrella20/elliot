@@ -7,8 +7,8 @@ __version__ = '0.1'
 __author__ = 'Vito Walter Anelli, Claudio Pomo'
 __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it'
 
-from elliot.evaluation.metrics.base_metric import BaseMetric
-from elliot.utils import logging
+from elliot.elliot.elliot.evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot.utils import logging
 
 
 class MAE(BaseMetric):

@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.accuracy.precision package
+elliot.elliot.evaluation.metrics.accuracy.precision package
 ====================================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.accuracy.precision.precision module
+elliot.elliot.evaluation.metrics.accuracy.precision.precision module
 -------------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.precision.precision
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.precision.precision
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.accuracy.precision.precision module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.precision
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.precision
    :members:
    :undoc-members:
    :show-inheritance:

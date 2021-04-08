@@ -14,13 +14,13 @@ import time
 import typing as t
 import scipy.sparse as sp
 
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.content_based.VSM.vector_space_model_similarity import Similarity
-from elliot.recommender.content_based.VSM.tfidf_utils import TFIDF
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.content_based.VSM.vector_space_model_similarity import Similarity
+from elliot.elliot.recommender.content_based.VSM.tfidf_utils import TFIDF
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 

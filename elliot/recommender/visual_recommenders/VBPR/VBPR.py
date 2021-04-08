@@ -13,12 +13,12 @@ import numpy as np
 import tensorflow as tf
 from tqdm import tqdm
 
-from elliot.dataset.samplers import custom_sampler as cs
-from elliot.recommender import BaseRecommenderModel
-from elliot.recommender.base_recommender_model import init_charger
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.recommender.visual_recommenders.VBPR.VBPR_model import VBPR_model
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import custom_sampler as cs
+from elliot.elliot.recommender import BaseRecommenderModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.recommender.visual_recommenders.VBPR.VBPR_model import VBPR_model
+from elliot.elliot.utils.write import store_recommendation
 
 np.random.seed(0)
 tf.random.set_seed(0)

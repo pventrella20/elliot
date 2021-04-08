@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.bias.aclt package
+elliot.elliot.evaluation.metrics.bias.aclt package
 ===========================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.bias.aclt.aclt module
+elliot.elliot.evaluation.metrics.bias.aclt.aclt module
 -----------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.bias.aclt.aclt
+.. automodule:: elliot.elliot.evaluation.metrics.bias.aclt.aclt
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.bias.aclt.aclt module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.bias.aclt
+.. automodule:: elliot.elliot.evaluation.metrics.bias.aclt
    :members:
    :undoc-members:
    :show-inheritance:

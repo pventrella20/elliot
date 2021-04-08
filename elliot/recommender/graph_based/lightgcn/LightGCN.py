@@ -10,18 +10,18 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it, daniele.malite
 import scipy.sparse as sp
 from tqdm import tqdm
 
-from elliot.utils.write import store_recommendation
+from elliot.elliot.utils.write import store_recommendation
 
 import numpy as np
 import random
 
-from elliot.dataset.samplers import custom_sampler as cs
+from elliot.elliot.dataset.samplers import custom_sampler as cs
 
-from elliot.recommender import BaseRecommenderModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.recommender import BaseRecommenderModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
 
-from elliot.recommender.graph_based.lightgcn.LightGCN_model import LightGCNModel
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.graph_based.lightgcn.LightGCN_model import LightGCNModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 random.seed(0)

@@ -1,29 +1,29 @@
-elliot.evaluation.metrics.accuracy.AUC package
+elliot.elliot.evaluation.metrics.accuracy.AUC package
 ==============================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.accuracy.AUC.auc module
+elliot.elliot.evaluation.metrics.accuracy.AUC.auc module
 -------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.AUC.auc
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.AUC.auc
    :members:
    :undoc-members:
    :show-inheritance:
 
-elliot.evaluation.metrics.accuracy.AUC.gauc module
+elliot.elliot.evaluation.metrics.accuracy.AUC.gauc module
 --------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.AUC.gauc
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.AUC.gauc
    :members:
    :undoc-members:
    :show-inheritance:
 
-elliot.evaluation.metrics.accuracy.AUC.lauc module
+elliot.elliot.evaluation.metrics.accuracy.AUC.lauc module
 --------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.AUC.lauc
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.AUC.lauc
    :members:
    :undoc-members:
    :show-inheritance:
@@ -31,7 +31,7 @@ elliot.evaluation.metrics.accuracy.AUC.lauc module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.AUC
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.AUC
    :members:
    :undoc-members:
    :show-inheritance:

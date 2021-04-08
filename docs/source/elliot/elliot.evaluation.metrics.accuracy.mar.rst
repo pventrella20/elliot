@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.accuracy.mar package
+elliot.elliot.evaluation.metrics.accuracy.mar package
 ==============================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.accuracy.mar.mar module
+elliot.elliot.evaluation.metrics.accuracy.mar.mar module
 -------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.mar.mar
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.mar.mar
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.accuracy.mar.mar module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.mar
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.mar
    :members:
    :undoc-members:
    :show-inheritance:

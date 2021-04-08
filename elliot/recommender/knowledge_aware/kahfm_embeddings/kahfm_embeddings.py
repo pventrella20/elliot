@@ -10,13 +10,13 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it, daniele.malite
 import numpy as np
 from tqdm import tqdm
 
-from elliot.dataset.samplers import custom_sampler as cs
-from elliot.recommender import BaseRecommenderModel
-from elliot.recommender.base_recommender_model import init_charger
-from elliot.recommender.knowledge_aware.kaHFM_batch.tfidf_utils import TFIDF
-from elliot.recommender.knowledge_aware.kahfm_embeddings.kahfm_embeddings_model import KaHFMEmbeddingsModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import custom_sampler as cs
+from elliot.elliot.recommender import BaseRecommenderModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.knowledge_aware.kaHFM_batch.tfidf_utils import TFIDF
+from elliot.elliot.recommender.knowledge_aware.kahfm_embeddings.kahfm_embeddings_model import KaHFMEmbeddingsModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
 np.random.seed(42)
 

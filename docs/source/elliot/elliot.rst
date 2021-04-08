@@ -8,12 +8,12 @@ Subpackages
    :maxdepth: 4
 
    elliot.dataset
-   elliot.evaluation
-   elliot.hyperoptimization
-   elliot.namespace
+   elliot.elliot.evaluation
+   elliot.elliot.hyperoptimization
+   elliot.elliot.namespace
    elliot.prefiltering
    elliot.recommender
-   elliot.result_handler
+   elliot.elliot.result_handler
    elliot.splitter
    elliot.utils
 

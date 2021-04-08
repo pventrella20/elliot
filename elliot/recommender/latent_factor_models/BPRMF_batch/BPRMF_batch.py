@@ -13,13 +13,13 @@ import numpy as np
 from tqdm import tqdm
 import pickle
 
-from elliot.dataset.samplers import custom_sampler as cs
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import custom_sampler as cs
+from elliot.elliot.utils.write import store_recommendation
 
-from elliot.recommender import BaseRecommenderModel
-from elliot.recommender.latent_factor_models.BPRMF_batch.BPRMF_batch_model import BPRMF_batch_model
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender import BaseRecommenderModel
+from elliot.elliot.recommender.latent_factor_models.BPRMF_batch.BPRMF_batch_model import BPRMF_batch_model
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 

@@ -1,21 +1,21 @@
-elliot.evaluation.metrics.accuracy.f1 package
+elliot.elliot.evaluation.metrics.accuracy.f1 package
 =============================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.accuracy.f1.extended\_f1 module
+elliot.elliot.evaluation.metrics.accuracy.f1.extended\_f1 module
 ---------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.f1.extended_f1
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.f1.extended_f1
    :members:
    :undoc-members:
    :show-inheritance:
 
-elliot.evaluation.metrics.accuracy.f1.f1 module
+elliot.elliot.evaluation.metrics.accuracy.f1.f1 module
 -----------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.f1.f1
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.f1.f1
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ elliot.evaluation.metrics.accuracy.f1.f1 module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.f1
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.f1
    :members:
    :undoc-members:
    :show-inheritance:

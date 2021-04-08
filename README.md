@@ -68,7 +68,7 @@ Elliot's entry point is the function `run_experiment`, which accepts a configura
 In the following, a sample configuration file is shown to demonstrate how a sample and explicit structure can generate a rigorous experiment.
 
 ```python
-from elliot.run import run_experiment
+from elliot.elliot.run import run_experiment
 
 run_experiment("configuration/file/path")
 ```

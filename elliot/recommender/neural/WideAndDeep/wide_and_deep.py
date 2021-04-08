@@ -15,12 +15,12 @@ import scipy.sparse as sp
 from sklearn.preprocessing import OneHotEncoder
 from tqdm import tqdm
 
-from elliot.dataset.samplers import pointwise_wide_and_deep_sampler as pwwds
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.base_recommender_model import init_charger
-from elliot.recommender.neural.WideAndDeep.wide_and_deep_model import WideAndDeepModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import pointwise_wide_and_deep_sampler as pwwds
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.neural.WideAndDeep.wide_and_deep_model import WideAndDeepModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
 np.random.seed(42)
 

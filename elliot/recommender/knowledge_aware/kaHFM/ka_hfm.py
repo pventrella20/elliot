@@ -4,12 +4,12 @@ import pickle
 import typing as t
 
 
-from elliot.dataset.samplers import pairwise_sampler as ps
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
-from elliot.recommender.knowledge_aware.kaHFM.tfidf_utils import TFIDF
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.dataset.samplers import pairwise_sampler as ps
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
+from elliot.elliot.recommender.knowledge_aware.kaHFM.tfidf_utils import TFIDF
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 

@@ -6,7 +6,7 @@ Elliot integrates the following novelty metrics.
 Summary
 ~~~~~~~~~~~~~~~~
 
-.. py:module:: elliot.evaluation.metrics.novelty
+.. py:module:: elliot.elliot.evaluation.metrics.novelty
 .. autosummary::
     EFD.efd.EFD
     EFD.extended_efd.ExtendedEFD
@@ -15,20 +15,20 @@ Summary
 
 EFD
 ~~~~~~~~~~~~~~~~
-.. autoclass:: elliot.evaluation.metrics.novelty.EFD.efd.EFD
+.. autoclass:: elliot.elliot.evaluation.metrics.novelty.EFD.efd.EFD
     :show-inheritance:
 
 Extended EFD
 ~~~~~~~~~~~~~~~~
-.. autoclass:: elliot.evaluation.metrics.novelty.EFD.extended_efd.ExtendedEFD
+.. autoclass:: elliot.elliot.evaluation.metrics.novelty.EFD.extended_efd.ExtendedEFD
     :show-inheritance:
 
 EPC
 ~~~~~~~~~~~~~~~~
-.. autoclass:: elliot.evaluation.metrics.novelty.EPC.epc.EPC
+.. autoclass:: elliot.elliot.evaluation.metrics.novelty.EPC.epc.EPC
     :show-inheritance:
 
 Extended EPC
 ~~~~~~~~~~~~~~~~
-.. autoclass:: elliot.evaluation.metrics.novelty.EPC.extended_epc.ExtendedEPC
+.. autoclass:: elliot.elliot.evaluation.metrics.novelty.EPC.extended_epc.ExtendedEPC
     :show-inheritance:

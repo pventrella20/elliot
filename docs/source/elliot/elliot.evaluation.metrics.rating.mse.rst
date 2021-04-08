@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.rating.mse package
+elliot.elliot.evaluation.metrics.rating.mse package
 ============================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.rating.mse.mse module
+elliot.elliot.evaluation.metrics.rating.mse.mse module
 -----------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.rating.mse.mse
+.. automodule:: elliot.elliot.evaluation.metrics.rating.mse.mse
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.rating.mse.mse module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.rating.mse
+.. automodule:: elliot.elliot.evaluation.metrics.rating.mse
    :members:
    :undoc-members:
    :show-inheritance:

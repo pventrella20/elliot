@@ -3,8 +3,8 @@ Module description:
 
 """
 import logging as pylog
-from elliot.evaluation.evaluator import Evaluator
-from elliot.utils.folder import build_model_folder
+from elliot.elliot.elliot.evaluation.evaluator import Evaluator
+from elliot.elliot.utils.folder import build_model_folder
 
 __version__ = '0.1'
 __author__ = 'Vito Walter Anelli, Claudio Pomo'
@@ -13,7 +13,7 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it'
 from abc import ABC
 from abc import abstractmethod
 from functools import wraps
-from elliot.utils import logging
+from elliot.elliot.utils import logging
 
 
 class BaseRecommenderModel(ABC):

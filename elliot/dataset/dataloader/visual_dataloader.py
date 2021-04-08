@@ -20,9 +20,9 @@ import pandas as pd
 import scipy.sparse as sp
 from PIL import Image
 
-from elliot.prefiltering.standard_prefilters import PreFilter
-from elliot.splitter.base_splitter import Splitter
-from elliot.utils import logging
+from elliot.elliot.prefiltering.standard_prefilters import PreFilter
+from elliot.elliot.splitter.base_splitter import Splitter
+from elliot.elliot.utils import logging
 
 """
 [(train_0,test_0)]

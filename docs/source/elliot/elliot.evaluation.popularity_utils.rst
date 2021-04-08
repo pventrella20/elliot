@@ -1,13 +1,13 @@
-elliot.evaluation.popularity\_utils package
+elliot.elliot.evaluation.popularity\_utils package
 ===========================================
 
 Submodules
 ----------
 
-elliot.evaluation.popularity\_utils.popularity module
+elliot.elliot.evaluation.popularity\_utils.popularity module
 -----------------------------------------------------
 
-.. automodule:: elliot.evaluation.popularity_utils.popularity
+.. automodule:: elliot.elliot.evaluation.popularity_utils.popularity
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.popularity\_utils.popularity module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.popularity_utils
+.. automodule:: elliot.elliot.evaluation.popularity_utils
    :members:
    :undoc-members:
    :show-inheritance:

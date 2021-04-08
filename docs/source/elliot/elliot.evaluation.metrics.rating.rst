@@ -1,4 +1,4 @@
-elliot.evaluation.metrics.rating package
+elliot.elliot.evaluation.metrics.rating package
 ========================================
 
 Subpackages
@@ -7,14 +7,14 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   elliot.evaluation.metrics.rating.mae
-   elliot.evaluation.metrics.rating.mse
-   elliot.evaluation.metrics.rating.rmse
+   elliot.elliot.evaluation.metrics.rating.mae
+   elliot.elliot.evaluation.metrics.rating.mse
+   elliot.elliot.evaluation.metrics.rating.rmse
 
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.rating
+.. automodule:: elliot.elliot.evaluation.metrics.rating
    :members:
    :undoc-members:
    :show-inheritance:

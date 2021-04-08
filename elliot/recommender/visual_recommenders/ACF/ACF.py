@@ -15,10 +15,10 @@ import tensorflow as tf
 from tqdm import tqdm
 
 import elliot.dataset.samplers.custom_sparse_sampler as css
-from elliot.recommender import BaseRecommenderModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.recommender.visual_recommenders.ACF.ACF_model import ACF_model
-from elliot.utils.write import store_recommendation
+from elliot.elliot.recommender import BaseRecommenderModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.recommender.visual_recommenders.ACF.ACF_model import ACF_model
+from elliot.elliot.utils.write import store_recommendation
 
 np.random.seed(0)
 tf.random.set_seed(0)

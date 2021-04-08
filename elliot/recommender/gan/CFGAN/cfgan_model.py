@@ -11,7 +11,7 @@ import os
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
-from elliot.dataset.samplers import pointwise_pos_neg_sampler as pws
+from elliot.elliot.dataset.samplers import pointwise_pos_neg_sampler as pws
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 tf.random.set_seed(0)

@@ -12,38 +12,38 @@ __version__ = '0.1'
 __author__ = 'Vito Walter Anelli, Claudio Pomo'
 __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it'
 
-from elliot.evaluation.metrics.accuracy.ndcg import NDCG
-from elliot.evaluation.metrics.accuracy.precision import Precision
-from elliot.evaluation.metrics.accuracy.recall import Recall
-from elliot.evaluation.metrics.accuracy.hit_rate import HR
-from elliot.evaluation.metrics.accuracy.mrr import MRR
-from elliot.evaluation.metrics.accuracy.map import MAP
-from elliot.evaluation.metrics.accuracy.mar import MAR
-from elliot.evaluation.metrics.accuracy.f1 import F1, ExtendedF1
-from elliot.evaluation.metrics.accuracy.DSC import DSC
-from elliot.evaluation.metrics.accuracy.AUC import LAUC, AUC, GAUC
+from elliot.elliot.elliot.evaluation.metrics.accuracy.ndcg import NDCG
+from elliot.elliot.elliot.evaluation.metrics.accuracy.precision import Precision
+from elliot.elliot.elliot.evaluation.metrics.accuracy.recall import Recall
+from elliot.elliot.elliot.evaluation.metrics.accuracy.hit_rate import HR
+from elliot.elliot.elliot.evaluation.metrics.accuracy.mrr import MRR
+from elliot.elliot.elliot.evaluation.metrics.accuracy.map import MAP
+from elliot.elliot.elliot.evaluation.metrics.accuracy.mar import MAR
+from elliot.elliot.elliot.evaluation.metrics.accuracy.f1 import F1, ExtendedF1
+from elliot.elliot.elliot.evaluation.metrics.accuracy.DSC import DSC
+from elliot.elliot.elliot.evaluation.metrics.accuracy.AUC import LAUC, AUC, GAUC
 
-from elliot.evaluation.metrics.rating.mae import MAE
-from elliot.evaluation.metrics.rating.mse import MSE
-from elliot.evaluation.metrics.rating.rmse import RMSE
+from elliot.elliot.elliot.evaluation.metrics.rating.mae import MAE
+from elliot.elliot.elliot.evaluation.metrics.rating.mse import MSE
+from elliot.elliot.elliot.evaluation.metrics.rating.rmse import RMSE
 
-from elliot.evaluation.metrics.coverage import ItemCoverage, UserCoverage, NumRetrieved, UserCoverageAtN
+from elliot.elliot.elliot.evaluation.metrics.coverage import ItemCoverage, UserCoverage, NumRetrieved, UserCoverageAtN
 
-from elliot.evaluation.metrics.diversity.gini_index import GiniIndex
-from elliot.evaluation.metrics.diversity.shannon_entropy import ShannonEntropy
-from elliot.evaluation.metrics.diversity.SRecall import SRecall
+from elliot.elliot.elliot.evaluation.metrics.diversity.gini_index import GiniIndex
+from elliot.elliot.elliot.evaluation.metrics.diversity.shannon_entropy import ShannonEntropy
+from elliot.elliot.elliot.evaluation.metrics.diversity.SRecall import SRecall
 
-from elliot.evaluation.metrics.novelty.EFD import EFD, ExtendedEFD
-from elliot.evaluation.metrics.novelty.EPC import EPC, ExtendedEPC
+from elliot.elliot.elliot.evaluation.metrics.novelty.EFD import EFD, ExtendedEFD
+from elliot.elliot.elliot.evaluation.metrics.novelty.EPC import EPC, ExtendedEPC
 
-from elliot.evaluation.metrics.bias import ARP, APLT, ACLT, PopRSP, PopREO, ExtendedPopRSP, ExtendedPopREO
+from elliot.elliot.elliot.evaluation.metrics.bias import ARP, APLT, ACLT, PopRSP, PopREO, ExtendedPopRSP, ExtendedPopREO
 
-from elliot.evaluation.metrics.fairness.MAD import UserMADrating, ItemMADrating, UserMADranking, ItemMADranking
-from elliot.evaluation.metrics.fairness.BiasDisparity import BiasDisparityBR, BiasDisparityBS, BiasDisparityBD
-from elliot.evaluation.metrics.fairness.rsp import RSP
-from elliot.evaluation.metrics.fairness.reo import REO
+from elliot.elliot.elliot.evaluation.metrics.fairness.MAD import UserMADrating, ItemMADrating, UserMADranking, ItemMADranking
+from elliot.elliot.elliot.evaluation.metrics.fairness.BiasDisparity import BiasDisparityBR, BiasDisparityBS, BiasDisparityBD
+from elliot.elliot.elliot.evaluation.metrics.fairness.rsp import RSP
+from elliot.elliot.elliot.evaluation.metrics.fairness.reo import REO
 
-from elliot.evaluation.metrics.statistical_array_metric import StatisticalMetric
+from elliot.elliot.elliot.evaluation.metrics.statistical_array_metric import StatisticalMetric
 
 _metric_dictionary = {
     "nDCG": NDCG,

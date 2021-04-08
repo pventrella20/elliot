@@ -7,7 +7,7 @@ Submodules
 elliot.result\_handler.result\_handler module
 ---------------------------------------------
 
-.. automodule:: elliot.result_handler.result_handler
+.. automodule:: elliot.elliot.result_handler.result_handler
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.result\_handler.result\_handler module
 Module contents
 ---------------
 
-.. automodule:: elliot.result_handler
+.. automodule:: elliot.elliot.result_handler
    :members:
    :undoc-members:
    :show-inheritance:

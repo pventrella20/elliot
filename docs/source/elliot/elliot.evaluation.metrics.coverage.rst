@@ -1,4 +1,4 @@
-elliot.evaluation.metrics.coverage package
+elliot.elliot.evaluation.metrics.coverage package
 ==========================================
 
 Subpackages
@@ -7,14 +7,14 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   elliot.evaluation.metrics.coverage.item_coverage
-   elliot.evaluation.metrics.coverage.num_retrieved
-   elliot.evaluation.metrics.coverage.user_coverage
+   elliot.elliot.evaluation.metrics.coverage.item_coverage
+   elliot.elliot.evaluation.metrics.coverage.num_retrieved
+   elliot.elliot.evaluation.metrics.coverage.user_coverage
 
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.coverage
+.. automodule:: elliot.elliot.evaluation.metrics.coverage
    :members:
    :undoc-members:
    :show-inheritance:

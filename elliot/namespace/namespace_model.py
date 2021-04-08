@@ -17,8 +17,8 @@ from hyperopt import hp
 from yaml import FullLoader as FullLoader
 from yaml import load
 from collections import OrderedDict
-from elliot.utils.folder import manage_directories
-import elliot.hyperoptimization as ho
+from elliot.elliot.utils.folder import manage_directories
+import elliot.elliot.hyperoptimization as ho
 import re
 
 regexp = re.compile(r'[\D][\w-]+\.[\w-]+')

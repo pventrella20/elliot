@@ -11,13 +11,13 @@ import numpy as np
 import pickle
 from tqdm import tqdm
 
-from elliot.dataset.samplers import pointwise_pos_neg_sampler as pws
-from elliot.recommender.latent_factor_models.LogisticMF.logistic_matrix_factorization_model import LogisticMatrixFactorizationModel
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import pointwise_pos_neg_sampler as pws
+from elliot.elliot.recommender.latent_factor_models.LogisticMF.logistic_matrix_factorization_model import LogisticMatrixFactorizationModel
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
-from elliot.recommender.base_recommender_model import BaseRecommenderModel
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 

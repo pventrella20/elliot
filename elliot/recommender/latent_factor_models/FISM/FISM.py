@@ -12,13 +12,13 @@ import numpy as np
 from tqdm import tqdm
 import pickle
 
-from elliot.dataset.samplers import pointwise_pos_neg_ratio_ratings_sampler as pws
-from elliot.utils.write import store_recommendation
+from elliot.elliot.dataset.samplers import pointwise_pos_neg_ratio_ratings_sampler as pws
+from elliot.elliot.utils.write import store_recommendation
 
-from elliot.recommender import BaseRecommenderModel
-from elliot.recommender.latent_factor_models.FISM.FISM_model import FISM_model
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.recommender.base_recommender_model import init_charger
+from elliot.elliot.recommender import BaseRecommenderModel
+from elliot.elliot.recommender.latent_factor_models.FISM.FISM_model import FISM_model
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.recommender.base_recommender_model import init_charger
 
 np.random.seed(42)
 

@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.bias.arp package
+elliot.elliot.evaluation.metrics.bias.arp package
 ==========================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.bias.arp.arp module
+elliot.elliot.evaluation.metrics.bias.arp.arp module
 ---------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.bias.arp.arp
+.. automodule:: elliot.elliot.evaluation.metrics.bias.arp.arp
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.bias.arp.arp module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.bias.arp
+.. automodule:: elliot.elliot.evaluation.metrics.bias.arp
    :members:
    :undoc-members:
    :show-inheritance:

@@ -5,7 +5,7 @@ Elliot provides 36 evaluation metrics, partitioned into seven families: Accuracy
 It is worth mentioning that Elliot is the framework that exposes both the largest number of metrics and the only one considering bias and fairness measures.
 Moreover, the user can choose any metric to drive the model selection and the tuning.
 
-.. py:module:: elliot.evaluation.metrics
+.. py:module:: elliot.elliot.evaluation.metrics
 
 All the metrics inherit from a common abstract class:
 

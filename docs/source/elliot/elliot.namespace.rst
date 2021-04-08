@@ -1,21 +1,21 @@
-elliot.namespace package
+elliot.elliot.namespace package
 ========================
 
 Submodules
 ----------
 
-elliot.namespace.namespace\_model module
+elliot.elliot.namespace.namespace\_model module
 ----------------------------------------
 
-.. automodule:: elliot.namespace.namespace_model
+.. automodule:: elliot.elliot.namespace.namespace_model
    :members:
    :undoc-members:
    :show-inheritance:
 
-elliot.namespace.namespace\_model\_builder module
+elliot.elliot.namespace.namespace\_model\_builder module
 -------------------------------------------------
 
-.. automodule:: elliot.namespace.namespace_model_builder
+.. automodule:: elliot.elliot.namespace.namespace_model_builder
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ elliot.namespace.namespace\_model\_builder module
 Module contents
 ---------------
 
-.. automodule:: elliot.namespace
+.. automodule:: elliot.elliot.namespace
    :members:
    :undoc-members:
    :show-inheritance:

@@ -1,4 +1,4 @@
-elliot.evaluation.metrics.diversity package
+elliot.elliot.evaluation.metrics.diversity package
 ===========================================
 
 Subpackages
@@ -7,14 +7,14 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   elliot.evaluation.metrics.diversity.SRecall
-   elliot.evaluation.metrics.diversity.gini_index
-   elliot.evaluation.metrics.diversity.shannon_entropy
+   elliot.elliot.evaluation.metrics.diversity.SRecall
+   elliot.elliot.evaluation.metrics.diversity.gini_index
+   elliot.elliot.evaluation.metrics.diversity.shannon_entropy
 
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.diversity
+.. automodule:: elliot.elliot.evaluation.metrics.diversity
    :members:
    :undoc-members:
    :show-inheritance:

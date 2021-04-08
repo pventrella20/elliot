@@ -13,10 +13,10 @@ import pickle
 
 import numpy as np
 
-from elliot.recommender.algebric.slope_one.slope_one_model import SlopeOneModel
-from elliot.recommender.base_recommender_model import BaseRecommenderModel, init_charger
-from elliot.recommender.recommender_utils_mixin import RecMixin
-from elliot.utils.write import store_recommendation
+from elliot.elliot.recommender.algebric.slope_one.slope_one_model import SlopeOneModel
+from elliot.elliot.recommender.base_recommender_model import BaseRecommenderModel, init_charger
+from elliot.elliot.recommender.recommender_utils_mixin import RecMixin
+from elliot.elliot.utils.write import store_recommendation
 
 np.random.seed(42)
 

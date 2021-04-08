@@ -10,8 +10,8 @@ __email__ = 'vitowalter.anelli@poliba.it, claudio.pomo@poliba.it'
 import numpy as np
 import pandas as pd
 
-from elliot.evaluation.metrics.base_metric import BaseMetric
-from elliot.evaluation.metrics.metrics_utils import ProxyMetric
+from elliot.elliot.elliot.evaluation.metrics.base_metric import BaseMetric
+from elliot.elliot.elliot.evaluation.metrics.metrics_utils import ProxyMetric
 
 
 class REO(BaseMetric):

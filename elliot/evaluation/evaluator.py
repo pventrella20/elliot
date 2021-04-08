@@ -28,7 +28,7 @@ import logging as pylog
 import numpy as np
 
 import elliot.dataset.dataset as ds
-from elliot.utils import logging
+from elliot.elliot.utils import logging
 from . import metrics
 from . import popularity_utils
 from . import relevance

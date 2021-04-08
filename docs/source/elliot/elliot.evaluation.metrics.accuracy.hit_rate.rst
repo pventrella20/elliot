@@ -1,13 +1,13 @@
-elliot.evaluation.metrics.accuracy.hit\_rate package
+elliot.elliot.evaluation.metrics.accuracy.hit\_rate package
 ====================================================
 
 Submodules
 ----------
 
-elliot.evaluation.metrics.accuracy.hit\_rate.hit\_rate module
+elliot.elliot.evaluation.metrics.accuracy.hit\_rate.hit\_rate module
 -------------------------------------------------------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.hit_rate.hit_rate
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.hit_rate.hit_rate
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ elliot.evaluation.metrics.accuracy.hit\_rate.hit\_rate module
 Module contents
 ---------------
 
-.. automodule:: elliot.evaluation.metrics.accuracy.hit_rate
+.. automodule:: elliot.elliot.evaluation.metrics.accuracy.hit_rate
    :members:
    :undoc-members:
    :show-inheritance:
