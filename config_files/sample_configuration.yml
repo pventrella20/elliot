@@ -11,7 +11,7 @@ experiment:
 #      train_path: ../data/movielens_exp/MostPop.tsv
 #      test_path: ../data/movielens_exp/test (copy).tsv
       test_path: ../data/movielens_exp/test2id.csv
-      dataLoader: DataSetLoader
+      dataloader: KnowledgeChainsLoader
       side_information:
         map: ../data/movielens_exp/side_information/mapped2.tsv
         features: ../data/movielens_exp/side_information/feat2.tsv
