@@ -20,6 +20,7 @@ from elliot.recommender.base_recommender_model import BaseRecommenderModel
 from elliot.recommender.NN.attribute_user_knn.attribute_user_knn_similarity import Similarity
 from elliot.recommender.NN.attribute_user_knn.tfidf_utils import TFIDF
 from elliot.recommender.base_recommender_model import init_charger
+from elliot.recommender.test_item_strategy import test_item_only_filter
 
 np.random.seed(42)
 
@@ -76,7 +77,8 @@ class AttributeUserKNN(RecMixin, BaseRecommenderModel):
 
 
     def get_recommendations(self, k: int = 100):
-        return {u: self._model.get_user_recs(u, k) for u in self._ratings.keys()}
+        predicted_at_k = {u: self._model.get_user_recs(u, k) for u in self._ratings.keys()}
+        return test_item_only_filter(predicted_at_k, self._data.test_dict)
 
     @property
     def name(self):
