@@ -13,10 +13,11 @@ experiment:
       test_path: ../data/movielens_exp/test2id.csv
       dataLoader: DataSetLoader
       side_information:
-        features: ../data/movielens_exp/side_informations/feat.tsv
-        map: ../data/movielens_exp/side_informations/mapped.tsv
+        map: ../data/movielens_exp/side_information/mapped2.tsv
+        features: ../data/movielens_exp/side_information/feat2.tsv
+        properties: ../data/movielens_exp/side_information/properties.conf
 
-  top_k: 3000  # takes an int representing the list length
+  top_k: 3100  # takes an int representing the list length
   evaluation:
     cutoffs: [5, 10]  # maximum length of the recommendation list we want to consider when computing the metric
     simple_metrics: [Precision,Recall,MavF1,nDcg,MRR]
@@ -29,6 +30,17 @@ experiment:
 #    external.Bypass:
 #      meta:
 #        save_recs: False
+    AttributeUserKNN:
+      meta:
+        save_recs: True
+      neighbors: 50
+      similarity: cosine
+      profile: binary
+    AttributeItemKNN:
+      meta:
+        save_recs: True
+      neighbors: 50
+      similarity: cosine
 #    PMF:
 #      meta:
 #        save_recs: True
