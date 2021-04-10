@@ -1,4 +1,4 @@
-def only_test_item_filter(recomm_list, test_list):
+def test_item_only_filter(recomm_list, test_list):
     filtered = {}
     test_item_list = {}
     for u, i_s in test_list.items():
