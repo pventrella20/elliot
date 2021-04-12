@@ -21,6 +21,8 @@ from elliot.recommender.recommender_utils_mixin import RecMixin
 from elliot.recommender.visual_recommenders.DVBPR.DVBPR_model import DVBPR_model
 from elliot.utils.write import store_recommendation
 
+from recommender import test_item_only_filter
+
 np.random.seed(0)
 tf.random.set_seed(0)
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
@@ -160,4 +162,4 @@ class DVBPR(RecMixin, BaseRecommenderModel):
             items_ratings_pair = [list(zip(map(self._data.private_items.get, u_list[0]), u_list[1]))
                                   for u_list in list(zip(i.numpy(), v.numpy()))]
             predictions_top_k.update(dict(zip(range(offset, offset_stop), items_ratings_pair)))
-        return predictions_top_k
+        return test_item_only_filter(predictions_top_k, self._data.test_dict)
