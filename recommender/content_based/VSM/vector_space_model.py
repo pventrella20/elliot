@@ -22,7 +22,7 @@ from elliot.recommender.content_based.VSM.vector_space_model_similarity import S
 from elliot.recommender.content_based.VSM.tfidf_utils import TFIDF
 from elliot.recommender.base_recommender_model import init_charger
 
-from recommender import test_item_only_filter
+from elliot.recommender import test_item_only_filter
 
 np.random.seed(42)
 

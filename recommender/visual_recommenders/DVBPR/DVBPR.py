@@ -21,7 +21,7 @@ from elliot.recommender.recommender_utils_mixin import RecMixin
 from elliot.recommender.visual_recommenders.DVBPR.DVBPR_model import DVBPR_model
 from elliot.utils.write import store_recommendation
 
-from recommender import test_item_only_filter
+from elliot.recommender import test_item_only_filter
 
 np.random.seed(0)
 tf.random.set_seed(0)

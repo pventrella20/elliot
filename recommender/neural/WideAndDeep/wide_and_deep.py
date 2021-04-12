@@ -22,7 +22,7 @@ from elliot.recommender.neural.WideAndDeep.wide_and_deep_model import WideAndDee
 from elliot.recommender.recommender_utils_mixin import RecMixin
 from elliot.utils.write import store_recommendation
 
-from recommender import test_item_only_filter
+from elliot.recommender import test_item_only_filter
 
 np.random.seed(42)
 
