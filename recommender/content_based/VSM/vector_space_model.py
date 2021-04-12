@@ -22,6 +22,8 @@ from elliot.recommender.content_based.VSM.vector_space_model_similarity import S
 from elliot.recommender.content_based.VSM.tfidf_utils import TFIDF
 from elliot.recommender.base_recommender_model import init_charger
 
+from recommender import test_item_only_filter
+
 np.random.seed(42)
 
 
@@ -91,7 +93,8 @@ class VSM(RecMixin, BaseRecommenderModel):
         self._model = Similarity(self._data, self._sp_i_user_features, self._sp_i_item_features, self._similarity)
 
     def get_recommendations(self, k: int = 100):
-        return {u: self._model.get_user_recs(u, k) for u in self._ratings.keys()}
+        predicted_at_k = {u: self._model.get_user_recs(u, k) for u in self._ratings.keys()}
+        return test_item_only_filter(predicted_at_k, self._data.test_dict)
 
     @property
     def name(self):
