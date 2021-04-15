@@ -13,9 +13,9 @@ experiment:
       test_path: ../data/movielens_exp/test2id.csv
       dataloader: KnowledgeChainsLoader
       side_information:
-        map: ../data/movielens_exp/side_information/mapped2.tsv
-        features: ../data/movielens_exp/side_information/feat2.tsv
-        properties: ../data/movielens_exp/side_information/properties.conf
+        map: /content/elliot/data/movielens_exp/side_informations/mapped2.tsv
+        features: /content/elliot/data/movielens_exp/side_informations/feat2.tsv
+        properties: /content/elliot/data/movielens_exp/side_informations/properties.conf
 
   top_k: 3100  # takes an int representing the list length
   evaluation:
