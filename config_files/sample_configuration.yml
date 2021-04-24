@@ -4,17 +4,17 @@ experiment:
       strategy: fixed
 #      train_path: ../data/movielens_exp/test/top_5_predictions_1.tsv
 #      test_path: ../data/movielens_exp/test/test2id.tsv
-      train_path: ../data/movielens_exp/train2id.csv
+      train_path: ../data/movielens_exp/train2id_movielens.csv
 #      train_path: ../data/movielens_exp/Graph/TransH_768/top_10_predictions_1.tsv
 #      train_path: ../data/movielens_exp/BERT/concat/concat_lastLayer_nostopwords/top_5_predictions_1.tsv
 #      train_path: ../data/movielens_exp/Graph+BERT/UserBert_ItemGraph/lastLayerNoStopwUser_DistMultItem/top_10_predictions_1.tsv
 #      train_path: ../data/movielens_exp/MostPop.tsv
 #      test_path: ../data/movielens_exp/test (copy).tsv
-      test_path: ../data/movielens_exp/test2id.csv
+      test_path: ../data/movielens_exp/test2id_movielens.csv
       dataloader: KnowledgeChainsLoader
       side_information:
-        map: /content/elliot/data/movielens_exp/side_informations/mapped2.tsv
-        features: /content/elliot/data/movielens_exp/side_informations/feat2.tsv
+        map: /content/elliot/data/movielens_exp/side_informations/map_movielens.tsv
+        features: /content/elliot/data/movielens_exp/side_informations/feat_movielens.tsv
         properties: /content/elliot/data/movielens_exp/side_informations/properties.conf
 
   top_k: 3100  # takes an int representing the list length
@@ -152,13 +152,12 @@ experiment:
 #      l_w: 0.001
 #      l_b: 0.001
 #      margin: 0.5
-    Random:
-      meta:
-        verbose: True
-        save_recs: True
-      seed: 42
-    MostPop:
-      meta:
-        verbose: True
-        save_recs: True
-
+#    Random:
+#      meta:
+#        verbose: True
+#        save_recs: True
+#      seed: 42
+#    MostPop:
+#      meta:
+#        verbose: True
+#        save_recs: True
