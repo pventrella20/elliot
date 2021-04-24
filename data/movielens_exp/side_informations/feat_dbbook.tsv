@@ -679,13 +679,7 @@
 678	<http://dbpedia.org/property/author>"& Neil Gaiman"^^
 679	<http://dbpedia.org/property/author>"'Andy McNab'"^^
 680	<http://dbpedia.org/property/author>"(in collaboration with Auguste Maquet)"^^
-681	<http://dbpedia.org/property/author>"* Sarah Corbin Robert
-* Henry M. Robert III
-* William J. Evans
-* Daniel H. Honemann
-* Thomas J. Balch
-* Daniel E. Seabold
-* Shmuel Gerber"^^
+681	<http://dbpedia.org/property/author>"* Sarah Corbin Robert* Henry M. Robert III* William J. Evans* Daniel H. Honemann* Thomas J. Balch* Daniel E. Seabold* Shmuel Gerber"^^
 682	<http://dbpedia.org/property/author>"* Strunk and"^^
 683	<http://dbpedia.org/property/author>"*"^^
 684	<http://dbpedia.org/property/author>"A. Elizabeth Delany"^^
@@ -3817,8 +3811,7 @@
 3810	<http://dbpedia.org/property/aux>"144"^^
 3811	<http://dbpedia.org/property/aux>"92"^^
 3812	<http://dbpedia.org/property/aux>"96"^^
-3813	<http://dbpedia.org/property/awards>"* 1998 School Library Journal Best Book of the Year
-* 1999"^^
+3813	<http://dbpedia.org/property/awards>"* 1998 School Library Journal Best Book of the Year* 1999"^^
 3814	<http://dbpedia.org/property/awards>"* 1999"^^
 3815	<http://dbpedia.org/property/awards>"2003"^^
 3816	<http://dbpedia.org/property/awards>"2005"^^
@@ -4682,9 +4675,7 @@
 4674	<http://dbpedia.org/property/caption>"Cover of first edition, first printing"^^
 4675	<http://dbpedia.org/property/caption>"Cover of first hardcover edition"^^
 4676	<http://dbpedia.org/property/caption>"Cover of first paperback edition"^^
-4677	<http://dbpedia.org/property/caption>"Cover of first serial, March 1852
-----
-(Illustration from the New York Public Library Berg Collection)"^^
+4677	<http://dbpedia.org/property/caption>"Cover of first serial, March 1852----(Illustration from the New York Public Library Berg Collection)"^^
 4678	<http://dbpedia.org/property/caption>"Cover of first trade edition"^^
 4679	<http://dbpedia.org/property/caption>"Cover of hardcover edition"^^
 4680	<http://dbpedia.org/property/caption>"Cover of most recent edition"^^
@@ -5141,9 +5132,8 @@
 5131	<http://dbpedia.org/property/caption>"First edition cover, published in 1997"^^
 5132	<http://dbpedia.org/property/caption>"First edition cover, published under Sylvia Plath's pseudonym, "Victoria Lucas.""^^
 5133	<http://dbpedia.org/property/caption>"First edition cover, showing Brautigan with his friend Hilda Hoffman."^^
-5134	<http://dbpedia.org/property/caption>"First edition cover.
-Sideways Stories From Wayside School"^^
-5135	<http://dbpedia.org/property/caption>"First edition cover."^^
+5134	<http://dbpedia.org/property/caption>"First edition cover."^^
+5135	<http://dbpedia.org/property/caption>"First edition cover.Sideways Stories From Wayside School"^^
 5136	<http://dbpedia.org/property/caption>"First edition design"^^
 5137	<http://dbpedia.org/property/caption>"First edition dust cover"^^
 5138	<http://dbpedia.org/property/caption>"First edition dust jacket cover 1930"^^
@@ -5979,87 +5969,30 @@ Sideways Stories From Wayside School"^^
 5968	<http://dbpedia.org/property/channel><http://dbpedia.org/resource/Qubo>
 5969	<http://dbpedia.org/property/channel><http://dbpedia.org/resource/Treehouse_TV>
 5970	<http://dbpedia.org/property/chapter>"12"^^
-5971	<http://dbpedia.org/property/chapterlist>"*"Fat Cat" 01 and 02
-*"Drive Slave" 01 and 02"^^
-5972	<http://dbpedia.org/property/chapterlist>"*Chapter 001- The Tornado Comes! 
-*Chapter 002- Volcano Hacker
-*Chapter 003- Spiritual Inheritor
-*Chapter 004- Eternal Champion"^^
-5973	<http://dbpedia.org/property/chapterlist>"*Chapter 005- Pool of Radiance
-*Chapter 006- Burnout!!
-*Chapter 007- Earthquake Trooper
-*Chapter 008- True Crystal"^^
-5974	<http://dbpedia.org/property/chapterlist>"*Chapter 009- Spiritual Wind
-*Chapter 010- Saga of the Tornado
-*Chapter 011- Necrom Menace
-*Chapter 012- Crossing Force
-*Chapter 013- Volcano Nemesis"^^
-5975	<http://dbpedia.org/property/chapterlist>"*Chapter 014- Last Saga
-*Chapter 015- Overlord
-*Chapter 016- Jabberwock Reborn
-*Chapter 017- True Wind!
-*Chapter 018- LegendZ Become Legends"^^
+5971	<http://dbpedia.org/property/chapterlist>"*"Fat Cat" 01 and 02*"Drive Slave" 01 and 02"^^
+5972	<http://dbpedia.org/property/chapterlist>"*Chapter 001- The Tornado Comes! *Chapter 002- Volcano Hacker*Chapter 003- Spiritual Inheritor*Chapter 004- Eternal Champion"^^
+5973	<http://dbpedia.org/property/chapterlist>"*Chapter 005- Pool of Radiance*Chapter 006- Burnout!!*Chapter 007- Earthquake Trooper*Chapter 008- True Crystal"^^
+5974	<http://dbpedia.org/property/chapterlist>"*Chapter 009- Spiritual Wind*Chapter 010- Saga of the Tornado*Chapter 011- Necrom Menace*Chapter 012- Crossing Force*Chapter 013- Volcano Nemesis"^^
+5975	<http://dbpedia.org/property/chapterlist>"*Chapter 014- Last Saga*Chapter 015- Overlord*Chapter 016- Jabberwock Reborn*Chapter 017- True Wind!*Chapter 018- LegendZ Become Legends"^^
 5976	<http://dbpedia.org/property/chapterlist>"1.1"^^
 5977	<http://dbpedia.org/property/chapterlist>"12.0"^^
-5978	<http://dbpedia.org/property/chapterlistcol>"*"Mines of Mind" 01 and 02
-*"Lost Past""^^
+5978	<http://dbpedia.org/property/chapterlistcol>"*"Mines of Mind" 01 and 02*"Lost Past""^^
 5979	<http://dbpedia.org/property/chapterlistcol>"18.9"^^
 5980	<http://dbpedia.org/property/chapterlistcol>"54.0"^^
 5981	<http://dbpedia.org/property/chapters>"20"^^
 5982	<http://dbpedia.org/property/chapters>"37"^^
 5983	<http://dbpedia.org/property/characterName>"Ninjak"^^
-5984	<http://dbpedia.org/property/characters>"* Director
-* Actors
-* Stage technicians
-* Father
-* Mother
-* Stepdaughter
-* Son
-* Boy
-* Child"^^
-5985	<http://dbpedia.org/property/characters>"* Lysistrata
-* Calonice
-* Myrrhine
-* Lampito
-* Magistrate
-* Cinesias
-* Baby
-*"^^
-5986	<http://dbpedia.org/property/characters>"* Messenger
-* Shepherd
-* Second Messenger"^^
-5987	<http://dbpedia.org/property/characters>"* Priest
-*"^^
+5984	<http://dbpedia.org/property/characters>"* Director* Actors* Stage technicians* Father* Mother* Stepdaughter* Son* Boy* Child"^^
+5985	<http://dbpedia.org/property/characters>"* Lysistrata* Calonice* Myrrhine* Lampito* Magistrate* Cinesias* Baby*"^^
+5986	<http://dbpedia.org/property/characters>"* Messenger* Shepherd* Second Messenger"^^
+5987	<http://dbpedia.org/property/characters>"* Priest*"^^
 5988	<http://dbpedia.org/property/characters>"*"^^
 5989	<http://dbpedia.org/property/characters>"*Demosthenes a slave of Demos"^^
-5990	<http://dbpedia.org/property/characters>"*Karen Andre
-*Mr. Stevens
-*Mr. Flint
-*Larry "Guts" Regan
-*[[#Broadway cast and characters"^^
-5991	<http://dbpedia.org/property/characters>"*Mr. Smith
-*Mrs. Smith
-*Mr. Martin
-*Mrs. Martin
-*Mary, the maid
-*The Fire Chief"^^
-5992	<http://dbpedia.org/property/characters>"*Nicias another slave of Demos
-*Agoracritus a sausage seller
-*Paphlagonian  a slave and steward of Demos
-*Demos an elderly Athenian
-Silent roles"^^
-5993	<http://dbpedia.org/property/characters>"*The Peacetreaties two girls
-*Several slaves"^^
-5994	<http://dbpedia.org/property/characters>"*Walter Younger
-*Ruth Younger
-*Travis Younger
-*Lena Younger 
-*Beneatha Younger
-*George Murchison
-*Joseph Asagai
-*Karl Lindner
-* Mrs. Johnson
-*Moving Men"^^
+5990	<http://dbpedia.org/property/characters>"*Karen Andre*Mr. Stevens*Mr. Flint*Larry "Guts" Regan*[[#Broadway cast and characters"^^
+5991	<http://dbpedia.org/property/characters>"*Mr. Smith*Mrs. Smith*Mr. Martin*Mrs. Martin*Mary, the maid*The Fire Chief"^^
+5992	<http://dbpedia.org/property/characters>"*Nicias another slave of Demos*Agoracritus a sausage seller*Paphlagonian  a slave and steward of Demos*Demos an elderly AthenianSilent roles"^^
+5993	<http://dbpedia.org/property/characters>"*The Peacetreaties two girls*Several slaves"^^
+5994	<http://dbpedia.org/property/characters>"*Walter Younger*Ruth Younger*Travis Younger*Lena Younger *Beneatha Younger*George Murchison*Joseph Asagai*Karl Lindner* Mrs. Johnson*Moving Men"^^
 5995	<http://dbpedia.org/property/characters>"8"^^
 5996	<http://dbpedia.org/property/characters>":"^^
 5997	<http://dbpedia.org/property/characters>"A Boy"^^
@@ -6504,14 +6437,7 @@ Silent roles"^^
 6436	<http://dbpedia.org/property/characters>"Woyzeck, Marie, Andres, Louis, Margret, Karl, Captain, Doctor, Drum Major, Apprentices, Children, People, Grandmother"^^
 6437	<http://dbpedia.org/property/characters>"attendant"^^
 6438	<http://dbpedia.org/property/characters>"more...]]"^^
-6439	<http://dbpedia.org/property/characters>"n Herald
-* Spartan Ambassador
-* Athenian Negotiator
-* Two Layabouts
-* Doorkeeper
-* Two Diners
-* Stratyllis
-* Five Young Women"^^
+6439	<http://dbpedia.org/property/characters>"n Herald* Spartan Ambassador* Athenian Negotiator* Two Layabouts* Doorkeeper* Two Diners* Stratyllis* Five Young Women"^^
 6440	<http://dbpedia.org/property/characters><http://dbpedia.org/resource/A._E._Housman>
 6441	<http://dbpedia.org/property/characters><http://dbpedia.org/resource/Abigail_Williams_(Salem_witch_trials)>
 6442	<http://dbpedia.org/property/characters><http://dbpedia.org/resource/Achilles>
@@ -6586,8 +6512,7 @@ Silent roles"^^
 6511	<http://dbpedia.org/property/characters><http://dbpedia.org/resource/Willy_Loman>
 6512	<http://dbpedia.org/property/characters><http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart>
 6513	<http://dbpedia.org/property/chiefeditor>"Lincoln Anderson"^^
-6514	<http://dbpedia.org/property/chorus>"* Old men
-* Old women"^^
+6514	<http://dbpedia.org/property/chorus>"* Old men* Old women"^^
 6515	<http://dbpedia.org/property/chorus>"Elders of Colonus"^^
 6516	<http://dbpedia.org/property/chorus>"Greek Women"^^
 6517	<http://dbpedia.org/property/chorus>"Theban Elders"^^
@@ -6756,8 +6681,7 @@ Silent roles"^^
 6680	<http://dbpedia.org/property/composer>"John Welsman"^^
 6681	<http://dbpedia.org/property/conflict>"Second Mexican War"^^
 6682	<http://dbpedia.org/property/conflict>"The War of Secession"^^
-6683	<http://dbpedia.org/property/congress>"* PZ7.N8248 Bm 1983
-* PZ7.N8248 Bm 1982"^^
+6683	<http://dbpedia.org/property/congress>"* PZ7.N8248 Bm 1983* PZ7.N8248 Bm 1982"^^
 6684	<http://dbpedia.org/property/congress>"2006"^^
 6685	<http://dbpedia.org/property/congress>"26004777"^^
 6686	<http://dbpedia.org/property/congress>"50"^^
@@ -9014,17 +8938,8 @@ Silent roles"^^
 8937	<http://dbpedia.org/property/congress><http://dbpedia.org/resource/Library_of_Congress_Classification:Class_Q_--_Science>
 8938	<http://dbpedia.org/property/congress><http://lccn.loc.gov/95043936>
 8939	<http://dbpedia.org/property/congress><http://lccn.loc.gov/98037954>
-8940	<http://dbpedia.org/property/content>"* Crying Out Love, In the Center of the World 
-* Crying Out Love, In the Center of the World 
-* My Girl and I, a 2005 remake film"^^
-8941	<http://dbpedia.org/property/content>"* Ghost in the Shell 
-** Ghost in the Shell 2: Innocence
-* Ghost in the Shell 
-* Ghost in the Shell: Stand Alone Complex
-** 2nd GIG
-** Solid State Society
-* Ghost in the Shell: Arise
-**The Movie"^^
+8940	<http://dbpedia.org/property/content>"* Crying Out Love, In the Center of the World * Crying Out Love, In the Center of the World * My Girl and I, a 2005 remake film"^^
+8941	<http://dbpedia.org/property/content>"* Ghost in the Shell ** Ghost in the Shell 2: Innocence* Ghost in the Shell * Ghost in the Shell: Stand Alone Complex** 2nd GIG** Solid State Society* Ghost in the Shell: Arise**The Movie"^^
 8942	<http://dbpedia.org/property/continent><http://dbpedia.org/resource/Caribbean>
 8943	<http://dbpedia.org/property/conventionalLongName>"Republic of San Lorenzo"^^
 8944	<http://dbpedia.org/property/copiesSold>"24550000"^^
@@ -9037,8 +8952,7 @@ Silent roles"^^
 8951	<http://dbpedia.org/property/country>"(First edition:) Mexico"^^
 8952	<http://dbpedia.org/property/country>"* US"^^
 8953	<http://dbpedia.org/property/country>"*"^^
-8954	<http://dbpedia.org/property/country>"*United States
-*United Kingdom"^^
+8954	<http://dbpedia.org/property/country>"*United States*United Kingdom"^^
 8955	<http://dbpedia.org/property/country>"Albania"^^
 8956	<http://dbpedia.org/property/country>"America"^^
 8957	<http://dbpedia.org/property/country>"Argentina"^^
@@ -9118,8 +9032,7 @@ Silent roles"^^
 9031	<http://dbpedia.org/property/country>"United Kingdom."^^
 9032	<http://dbpedia.org/property/country>"United Kingdom; United States"^^
 9033	<http://dbpedia.org/property/country>"United State"^^
-9034	<http://dbpedia.org/property/country>"United States  
-United Kingdom"^^
+9034	<http://dbpedia.org/property/country>"United States  United Kingdom"^^
 9035	<http://dbpedia.org/property/country>"United States & England"^^
 9036	<http://dbpedia.org/property/country>"United States & United Kingdom"^^
 9037	<http://dbpedia.org/property/country>"United States Of America"^^
@@ -9236,20 +9149,14 @@ United Kingdom"^^
 9148	<http://dbpedia.org/property/coverArtist>""Joe Caroff""^^
 9149	<http://dbpedia.org/property/coverArtist>""The Rainmaker""^^
 9150	<http://dbpedia.org/property/coverArtist>"'Karov'"^^
-9151	<http://dbpedia.org/property/coverArtist>"* Colin Saxton 
-* and others"^^
-9152	<http://dbpedia.org/property/coverArtist>"* Edwin Herder 
-* Steve Weston"^^
-9153	<http://dbpedia.org/property/coverArtist>"* Rob Burt  
-* and others"^^
-9154	<http://dbpedia.org/property/coverArtist>"* Steve Weston 
-* Eric Peterson"^^
-9155	<http://dbpedia.org/property/coverArtist>"* Steve Weston  
-*"^^
+9151	<http://dbpedia.org/property/coverArtist>"* Colin Saxton * and others"^^
+9152	<http://dbpedia.org/property/coverArtist>"* Edwin Herder * Steve Weston"^^
+9153	<http://dbpedia.org/property/coverArtist>"* Rob Burt  * and others"^^
+9154	<http://dbpedia.org/property/coverArtist>"* Steve Weston  *"^^
+9155	<http://dbpedia.org/property/coverArtist>"* Steve Weston * Eric Peterson"^^
 9156	<http://dbpedia.org/property/coverArtist>"* Steve Weston"^^
 9157	<http://dbpedia.org/property/coverArtist>"*"^^
-9158	<http://dbpedia.org/property/coverArtist>"*Evan Gaffney 
-*Nick Dewar"^^
+9158	<http://dbpedia.org/property/coverArtist>"*Evan Gaffney *Nick Dewar"^^
 9159	<http://dbpedia.org/property/coverArtist>"A. J. Donnell"^^
 9160	<http://dbpedia.org/property/coverArtist>"A. Simi"^^
 9161	<http://dbpedia.org/property/coverArtist>"A. West , Jackie Seow-Pracher , Greg Gorman"^^
@@ -15212,17 +15119,16 @@ United Kingdom"^^
 15118	<http://dbpedia.org/property/genre>"Satirical, Novel"^^
 15119	<http://dbpedia.org/property/genre>"School"^^
 15120	<http://dbpedia.org/property/genre>"Sci-Fi/Adventure"^^
-15121	<http://dbpedia.org/property/genre>"Science Fiction
-humour"^^
-15122	<http://dbpedia.org/property/genre>"Science Fiction & Fantasy"^^
-15123	<http://dbpedia.org/property/genre>"Science Fiction / Black Humour"^^
-15124	<http://dbpedia.org/property/genre>"Science Fiction Novel"^^
-15125	<http://dbpedia.org/property/genre>"Science Fiction"^^
-15126	<http://dbpedia.org/property/genre>"Science Fiction, Apocalyptic fiction"^^
-15127	<http://dbpedia.org/property/genre>"Science Fiction, Dystopian"^^
-15128	<http://dbpedia.org/property/genre>"Science Fiction, Fantasy"^^
-15129	<http://dbpedia.org/property/genre>"Science Fiction, Fantasy, Horror"^^
-15130	<http://dbpedia.org/property/genre>"Science Fiction/Satire"^^
+15121	<http://dbpedia.org/property/genre>"Science Fiction & Fantasy"^^
+15122	<http://dbpedia.org/property/genre>"Science Fiction / Black Humour"^^
+15123	<http://dbpedia.org/property/genre>"Science Fiction Novel"^^
+15124	<http://dbpedia.org/property/genre>"Science Fiction"^^
+15125	<http://dbpedia.org/property/genre>"Science Fiction, Apocalyptic fiction"^^
+15126	<http://dbpedia.org/property/genre>"Science Fiction, Dystopian"^^
+15127	<http://dbpedia.org/property/genre>"Science Fiction, Fantasy"^^
+15128	<http://dbpedia.org/property/genre>"Science Fiction, Fantasy, Horror"^^
+15129	<http://dbpedia.org/property/genre>"Science Fiction/Satire"^^
+15130	<http://dbpedia.org/property/genre>"Science Fictionhumour"^^
 15131	<http://dbpedia.org/property/genre>"Science fiction  novel"^^
 15132	<http://dbpedia.org/property/genre>"Science fiction / Horror"^^
 15133	<http://dbpedia.org/property/genre>"Science fiction and Fantasy short stories"^^
@@ -17251,8 +17157,7 @@ humour"^^
 17156	<http://dbpedia.org/property/isbn>"& ISBN 1-85723-984-9"^^
 17157	<http://dbpedia.org/property/isbn>"&mdash;ISBN: 1-4165-2131-3"^^
 17158	<http://dbpedia.org/property/isbn>"'''e-book ID:"^^
-17159	<http://dbpedia.org/property/isbn>"* ISBN 0722658044 
-* ISBN 0152105301"^^
+17159	<http://dbpedia.org/property/isbn>"* ISBN 0722658044 * ISBN 0152105301"^^
 17160	<http://dbpedia.org/property/isbn>","^^
 17161	<http://dbpedia.org/property/isbn>"0"^^
 17162	<http://dbpedia.org/property/isbn>"1"^^
@@ -17607,8 +17512,7 @@ humour"^^
 17511	<http://dbpedia.org/property/isbn>"ISBN 0-15-148926-2"^^
 17512	<http://dbpedia.org/property/isbn>"ISBN 0-15-171554-8"^^
 17513	<http://dbpedia.org/property/isbn>"ISBN 0-15-177082-4"^^
-17514	<http://dbpedia.org/property/isbn>"ISBN 0-15-179287-9 
-                 ISBN 978-0-8018-6441-4"^^
+17514	<http://dbpedia.org/property/isbn>"ISBN 0-15-179287-9                  ISBN 978-0-8018-6441-4"^^
 17515	<http://dbpedia.org/property/isbn>"ISBN 0-15-190491-X"^^
 17516	<http://dbpedia.org/property/isbn>"ISBN 0-15-204911-8"^^
 17517	<http://dbpedia.org/property/isbn>"ISBN 0-15-205161-9"^^
@@ -17778,8 +17682,7 @@ humour"^^
 17681	<http://dbpedia.org/property/isbn>"ISBN 0-345-27750-3"^^
 17682	<http://dbpedia.org/property/isbn>"ISBN 0-345-27926-3"^^
 17683	<http://dbpedia.org/property/isbn>"ISBN 0-345-29369-X"^^
-17684	<http://dbpedia.org/property/isbn>"ISBN 0-345-30253-2 
-ISBN 0-345-28554-9"^^
+17684	<http://dbpedia.org/property/isbn>"ISBN 0-345-30253-2 ISBN 0-345-28554-9"^^
 17685	<http://dbpedia.org/property/isbn>"ISBN 0-345-31215-5"^^
 17686	<http://dbpedia.org/property/isbn>"ISBN 0-345-31282-1"^^
 17687	<http://dbpedia.org/property/isbn>"ISBN 0-345-31357-7"^^
@@ -17796,8 +17699,7 @@ ISBN 0-345-28554-9"^^
 17698	<http://dbpedia.org/property/isbn>"ISBN 0-345-34506-1"^^
 17699	<http://dbpedia.org/property/isbn>"ISBN 0-345-35050-2"^^
 17700	<http://dbpedia.org/property/isbn>"ISBN 0-345-35413-3"^^
-17701	<http://dbpedia.org/property/isbn>"ISBN 0-345-36298-5 
-ISBN 0-345-37559-9"^^
+17701	<http://dbpedia.org/property/isbn>"ISBN 0-345-36298-5 ISBN 0-345-37559-9"^^
 17702	<http://dbpedia.org/property/isbn>"ISBN 0-345-36299-3"^^
 17703	<http://dbpedia.org/property/isbn>"ISBN 0-345-36300-0"^^
 17704	<http://dbpedia.org/property/isbn>"ISBN 0-345-36341-8"^^
@@ -18527,14 +18429,10 @@ ISBN 0-345-37559-9"^^
 18428	<http://dbpedia.org/property/isbn>"ISBN 0-8125-7635-7"^^
 18429	<http://dbpedia.org/property/isbn>"ISBN 0-8125-8036-2"^^
 18430	<http://dbpedia.org/property/isbn>"ISBN 0-8126-9433-3"^^
-18431	<http://dbpedia.org/property/isbn>"ISBN 0-8362-0425-5 
-ISBN 0-8362-0426-3"^^
-18432	<http://dbpedia.org/property/isbn>"ISBN 0-8362-1724-1 
-ISBN 0-8362-1726-8"^^
-18433	<http://dbpedia.org/property/isbn>"ISBN 0-8362-1831-0 
-ISBN 0-8362-1810-8"^^
-18434	<http://dbpedia.org/property/isbn>"ISBN 0-8362-1851-5 
-ISBN 0-8362-1861-2"^^
+18431	<http://dbpedia.org/property/isbn>"ISBN 0-8362-0425-5 ISBN 0-8362-0426-3"^^
+18432	<http://dbpedia.org/property/isbn>"ISBN 0-8362-1724-1 ISBN 0-8362-1726-8"^^
+18433	<http://dbpedia.org/property/isbn>"ISBN 0-8362-1831-0 ISBN 0-8362-1810-8"^^
+18434	<http://dbpedia.org/property/isbn>"ISBN 0-8362-1851-5 ISBN 0-8362-1861-2"^^
 18435	<http://dbpedia.org/property/isbn>"ISBN 0-8362-2062-5"^^
 18436	<http://dbpedia.org/property/isbn>"ISBN 0-8362-2085-4"^^
 18437	<http://dbpedia.org/property/isbn>"ISBN 0-8402-1115-5"^^
@@ -18864,10 +18762,8 @@ ISBN 0-8362-1861-2"^^
 18761	<http://dbpedia.org/property/isbn>"ISBN 978-0-671-52035-9"^^
 18762	<http://dbpedia.org/property/isbn>"ISBN 978-0-671-72075-9"^^
 18763	<http://dbpedia.org/property/isbn>"ISBN 978-0-671-73559-3"^^
-18764	<http://dbpedia.org/property/isbn>"ISBN 978-0-674-59845-4
-ISBN 0-674-59845-8"^^
-18765	<http://dbpedia.org/property/isbn>"ISBN 978-0-679-31171-3  /
-978-0-679-31172-0"^^
+18764	<http://dbpedia.org/property/isbn>"ISBN 978-0-674-59845-4ISBN 0-674-59845-8"^^
+18765	<http://dbpedia.org/property/isbn>"ISBN 978-0-679-31171-3  /978-0-679-31172-0"^^
 18766	<http://dbpedia.org/property/isbn>"ISBN 978-0-679-74076-6"^^
 18767	<http://dbpedia.org/property/isbn>"ISBN 978-0-679-75245-5"^^
 18768	<http://dbpedia.org/property/isbn>"ISBN 978-0-684-82754-4"^^
@@ -19558,11 +19454,8 @@ ISBN 0-674-59845-8"^^
 19453	<http://dbpedia.org/property/mapCaption>"General location of San Lorenzo"^^
 19454	<http://dbpedia.org/property/mapIllustrator>"Marc Burkhardt"^^
 19455	<http://dbpedia.org/property/medaType>"Print"^^
-19456	<http://dbpedia.org/property/mediaType>"* Audio CD
-* cassette"^^
-19457	<http://dbpedia.org/property/mediaType>"* Print  
-* CD-ROM 
-* Online"^^
+19456	<http://dbpedia.org/property/mediaType>"* Audio CD* cassette"^^
+19457	<http://dbpedia.org/property/mediaType>"* Print  * CD-ROM * Online"^^
 19458	<http://dbpedia.org/property/mediaType>"*"^^
 19459	<http://dbpedia.org/property/mediaType>"Audio Book"^^
 19460	<http://dbpedia.org/property/mediaType>"Audio CD and cassette"^^
@@ -19626,127 +19519,126 @@ ISBN 0-674-59845-8"^^
 19518	<http://dbpedia.org/property/mediaType>"Paperbook"^^
 19519	<http://dbpedia.org/property/mediaType>"Paperbound"^^
 19520	<http://dbpedia.org/property/mediaType>"Primt"^^
-19521	<http://dbpedia.org/property/mediaType>"Print 
-Print"^^
-19522	<http://dbpedia.org/property/mediaType>"Print   hardback"^^
-19523	<http://dbpedia.org/property/mediaType>"Print  & Audio Book & E-book"^^
-19524	<http://dbpedia.org/property/mediaType>"Print  & Audio Book"^^
-19525	<http://dbpedia.org/property/mediaType>"Print  & Audio CD"^^
-19526	<http://dbpedia.org/property/mediaType>"Print  & Audio book & film"^^
-19527	<http://dbpedia.org/property/mediaType>"Print  & Audio book"^^
-19528	<http://dbpedia.org/property/mediaType>"Print  & AudioBook"^^
-19529	<http://dbpedia.org/property/mediaType>"Print  & Audiobook"^^
-19530	<http://dbpedia.org/property/mediaType>"Print  & Comic Book"^^
-19531	<http://dbpedia.org/property/mediaType>"Print  & E-Book"^^
-19532	<http://dbpedia.org/property/mediaType>"Print  & E-book"^^
-19533	<http://dbpedia.org/property/mediaType>"Print  & Paperback"^^
-19534	<http://dbpedia.org/property/mediaType>"Print  & Paperback), audiobook"^^
-19535	<http://dbpedia.org/property/mediaType>"Print  & Serial"^^
-19536	<http://dbpedia.org/property/mediaType>"Print  & abridged audio book"^^
-19537	<http://dbpedia.org/property/mediaType>"Print  & audio book"^^
-19538	<http://dbpedia.org/property/mediaType>"Print  & audiobook"^^
-19539	<http://dbpedia.org/property/mediaType>"Print  & e-book"^^
-19540	<http://dbpedia.org/property/mediaType>"Print  & e-book, audio-CD"^^
-19541	<http://dbpedia.org/property/mediaType>"Print  & e-books"^^
-19542	<http://dbpedia.org/property/mediaType>"Print  & ebook"^^
-19543	<http://dbpedia.org/property/mediaType>"Print  &"^^
-19544	<http://dbpedia.org/property/mediaType>"Print  Audio book"^^
-19545	<http://dbpedia.org/property/mediaType>"Print  Audio"^^
-19546	<http://dbpedia.org/property/mediaType>"Print  Audiobook"^^
-19547	<http://dbpedia.org/property/mediaType>"Print  Ebook"^^
-19548	<http://dbpedia.org/property/mediaType>"Print  Electronic"^^
-19549	<http://dbpedia.org/property/mediaType>"Print  Hardback"^^
-19550	<http://dbpedia.org/property/mediaType>"Print  Paperback)"^^
-19551	<http://dbpedia.org/property/mediaType>"Print  Print"^^
-19552	<http://dbpedia.org/property/mediaType>"Print  also Audio Book"^^
-19553	<http://dbpedia.org/property/mediaType>"Print  also Audio book"^^
-19554	<http://dbpedia.org/property/mediaType>"Print  also Audiobook"^^
-19555	<http://dbpedia.org/property/mediaType>"Print  also Graphic Novel"^^
-19556	<http://dbpedia.org/property/mediaType>"Print  and Audio CD"^^
-19557	<http://dbpedia.org/property/mediaType>"Print  and Audio Cassette"^^
-19558	<http://dbpedia.org/property/mediaType>"Print  and Audio book"^^
-19559	<http://dbpedia.org/property/mediaType>"Print  and AudioBook"^^
-19560	<http://dbpedia.org/property/mediaType>"Print  and Audiobook"^^
-19561	<http://dbpedia.org/property/mediaType>"Print  and audio CD"^^
-19562	<http://dbpedia.org/property/mediaType>"Print  and audio cassette"^^
-19563	<http://dbpedia.org/property/mediaType>"Print  and audio-CD"^^
-19564	<http://dbpedia.org/property/mediaType>"Print  and audiobook"^^
-19565	<http://dbpedia.org/property/mediaType>"Print  and eBook"^^
-19566	<http://dbpedia.org/property/mediaType>"Print  and"^^
-19567	<http://dbpedia.org/property/mediaType>"Print  crimeline - reprint edition"^^
-19568	<http://dbpedia.org/property/mediaType>"Print  eBook and audiobook"^^
-19569	<http://dbpedia.org/property/mediaType>"Print &  eBook"^^
-19570	<http://dbpedia.org/property/mediaType>"Print &  ebook"^^
-19571	<http://dbpedia.org/property/mediaType>"Print & Audio"^^
-19572	<http://dbpedia.org/property/mediaType>"Print & Audiobook"^^
-19573	<http://dbpedia.org/property/mediaType>"Print & e-book"^^
-19574	<http://dbpedia.org/property/mediaType>"Print & eBook"^^
-19575	<http://dbpedia.org/property/mediaType>"Print & ebook"^^
-19576	<http://dbpedia.org/property/mediaType>"Print &ndash; hardcover"^^
-19577	<http://dbpedia.org/property/mediaType>"Print )"^^
-19578	<http://dbpedia.org/property/mediaType>"Print +"^^
-19579	<http://dbpedia.org/property/mediaType>"Print , 4 volumes"^^
-19580	<http://dbpedia.org/property/mediaType>"Print , Audio Books"^^
-19581	<http://dbpedia.org/property/mediaType>"Print , Audio CD"^^
-19582	<http://dbpedia.org/property/mediaType>"Print , Audio CD, Audio cassette, Audio download"^^
-19583	<http://dbpedia.org/property/mediaType>"Print , Audio Cassette, Audio Download, e-book"^^
-19584	<http://dbpedia.org/property/mediaType>"Print , Audio book"^^
-19585	<http://dbpedia.org/property/mediaType>"Print , Audio"^^
-19586	<http://dbpedia.org/property/mediaType>"Print , Audiobook"^^
-19587	<http://dbpedia.org/property/mediaType>"Print , Audiobook, Ebook"^^
-19588	<http://dbpedia.org/property/mediaType>"Print , Audiobook, MP3 CD"^^
-19589	<http://dbpedia.org/property/mediaType>"Print , Beginner Books"^^
-19590	<http://dbpedia.org/property/mediaType>"Print , CD"^^
-19591	<http://dbpedia.org/property/mediaType>"Print , Compact Disc, Book on Tape"^^
-19592	<http://dbpedia.org/property/mediaType>"Print , Digital Audio Download"^^
-19593	<http://dbpedia.org/property/mediaType>"Print , E-Book"^^
-19594	<http://dbpedia.org/property/mediaType>"Print , E-book"^^
-19595	<http://dbpedia.org/property/mediaType>"Print , Ebook"^^
-19596	<http://dbpedia.org/property/mediaType>"Print , On-line"^^
-19597	<http://dbpedia.org/property/mediaType>"Print , audio book & e-book"^^
-19598	<http://dbpedia.org/property/mediaType>"Print , audio book"^^
-19599	<http://dbpedia.org/property/mediaType>"Print , audio cassette and audio CD"^^
-19600	<http://dbpedia.org/property/mediaType>"Print , audio cassette, and audio download"^^
-19601	<http://dbpedia.org/property/mediaType>"Print , audio cassette, audio CD, and audio download"^^
-19602	<http://dbpedia.org/property/mediaType>"Print , audio"^^
-19603	<http://dbpedia.org/property/mediaType>"Print , audio-CD"^^
-19604	<http://dbpedia.org/property/mediaType>"Print , audiobook CD"^^
-19605	<http://dbpedia.org/property/mediaType>"Print , audiobook"^^
-19606	<http://dbpedia.org/property/mediaType>"Print , audiobook,"^^
-19607	<http://dbpedia.org/property/mediaType>"Print , e-book"^^
-19608	<http://dbpedia.org/property/mediaType>"Print , e-book, audio-CD"^^
-19609	<http://dbpedia.org/property/mediaType>"Print , e-book, audiobook"^^
-19610	<http://dbpedia.org/property/mediaType>"Print , eBook"^^
-19611	<http://dbpedia.org/property/mediaType>"Print , ebook"^^
-19612	<http://dbpedia.org/property/mediaType>"Print , free online text"^^
-19613	<http://dbpedia.org/property/mediaType>"Print , free text online"^^
-19614	<http://dbpedia.org/property/mediaType>"Print , mass-market paperback"^^
-19615	<http://dbpedia.org/property/mediaType>"Print , paperback"^^
-19616	<http://dbpedia.org/property/mediaType>"Print , unabridged audio CD, audiobook download, eBook"^^
-19617	<http://dbpedia.org/property/mediaType>"Print ,"^^
-19618	<http://dbpedia.org/property/mediaType>"Print ,digital"^^
-19619	<http://dbpedia.org/property/mediaType>"Print - Hardback & Paperback"^^
-19620	<http://dbpedia.org/property/mediaType>"Print - hardcover"^^
-19621	<http://dbpedia.org/property/mediaType>"Print -- Hardcover"^^
-19622	<http://dbpedia.org/property/mediaType>"Print ."^^
-19623	<http://dbpedia.org/property/mediaType>"Print ; Audiobook"^^
-19624	<http://dbpedia.org/property/mediaType>"Print ; audiobook"^^
-19625	<http://dbpedia.org/property/mediaType>"Print Hardback & Paperback & Audio Book Compact audio cassette, Compact Disc"^^
-19626	<http://dbpedia.org/property/mediaType>"Print Hardback & Paperback & Compact audio cassette, Compact Disc"^^
-19627	<http://dbpedia.org/property/mediaType>"Print Hardback & Paperback"^^
-19628	<http://dbpedia.org/property/mediaType>"Print Hardback & Paperback, Audio Book"^^
-19629	<http://dbpedia.org/property/mediaType>"Print Hardback and Paperback"^^
-19630	<http://dbpedia.org/property/mediaType>"Print Hardback and Paperback)"^^
-19631	<http://dbpedia.org/property/mediaType>"Print Hardback"^^
-19632	<http://dbpedia.org/property/mediaType>"Print Hardbound & Paperback & E-Book"^^
-19633	<http://dbpedia.org/property/mediaType>"Print Hardcover & Paperback"^^
-19634	<http://dbpedia.org/property/mediaType>"Print Hardcover and Paperback"^^
-19635	<http://dbpedia.org/property/mediaType>"Print Hardcover"^^
-19636	<http://dbpedia.org/property/mediaType>"Print Hardcover, Paperback"^^
-19637	<http://dbpedia.org/property/mediaType>"Print Hardcover, Paperback, e-book"^^
-19638	<http://dbpedia.org/property/mediaType>"Print Mass market paperback"^^
-19639	<http://dbpedia.org/property/mediaType>"Print Paperback"^^
-19640	<http://dbpedia.org/property/mediaType>"Print Paperback)"^^
+19521	<http://dbpedia.org/property/mediaType>"Print   hardback"^^
+19522	<http://dbpedia.org/property/mediaType>"Print  & Audio Book & E-book"^^
+19523	<http://dbpedia.org/property/mediaType>"Print  & Audio Book"^^
+19524	<http://dbpedia.org/property/mediaType>"Print  & Audio CD"^^
+19525	<http://dbpedia.org/property/mediaType>"Print  & Audio book & film"^^
+19526	<http://dbpedia.org/property/mediaType>"Print  & Audio book"^^
+19527	<http://dbpedia.org/property/mediaType>"Print  & AudioBook"^^
+19528	<http://dbpedia.org/property/mediaType>"Print  & Audiobook"^^
+19529	<http://dbpedia.org/property/mediaType>"Print  & Comic Book"^^
+19530	<http://dbpedia.org/property/mediaType>"Print  & E-Book"^^
+19531	<http://dbpedia.org/property/mediaType>"Print  & E-book"^^
+19532	<http://dbpedia.org/property/mediaType>"Print  & Paperback"^^
+19533	<http://dbpedia.org/property/mediaType>"Print  & Paperback), audiobook"^^
+19534	<http://dbpedia.org/property/mediaType>"Print  & Serial"^^
+19535	<http://dbpedia.org/property/mediaType>"Print  & abridged audio book"^^
+19536	<http://dbpedia.org/property/mediaType>"Print  & audio book"^^
+19537	<http://dbpedia.org/property/mediaType>"Print  & audiobook"^^
+19538	<http://dbpedia.org/property/mediaType>"Print  & e-book"^^
+19539	<http://dbpedia.org/property/mediaType>"Print  & e-book, audio-CD"^^
+19540	<http://dbpedia.org/property/mediaType>"Print  & e-books"^^
+19541	<http://dbpedia.org/property/mediaType>"Print  & ebook"^^
+19542	<http://dbpedia.org/property/mediaType>"Print  &"^^
+19543	<http://dbpedia.org/property/mediaType>"Print  Audio book"^^
+19544	<http://dbpedia.org/property/mediaType>"Print  Audio"^^
+19545	<http://dbpedia.org/property/mediaType>"Print  Audiobook"^^
+19546	<http://dbpedia.org/property/mediaType>"Print  Ebook"^^
+19547	<http://dbpedia.org/property/mediaType>"Print  Electronic"^^
+19548	<http://dbpedia.org/property/mediaType>"Print  Hardback"^^
+19549	<http://dbpedia.org/property/mediaType>"Print  Paperback)"^^
+19550	<http://dbpedia.org/property/mediaType>"Print  Print"^^
+19551	<http://dbpedia.org/property/mediaType>"Print  also Audio Book"^^
+19552	<http://dbpedia.org/property/mediaType>"Print  also Audio book"^^
+19553	<http://dbpedia.org/property/mediaType>"Print  also Audiobook"^^
+19554	<http://dbpedia.org/property/mediaType>"Print  also Graphic Novel"^^
+19555	<http://dbpedia.org/property/mediaType>"Print  and Audio CD"^^
+19556	<http://dbpedia.org/property/mediaType>"Print  and Audio Cassette"^^
+19557	<http://dbpedia.org/property/mediaType>"Print  and Audio book"^^
+19558	<http://dbpedia.org/property/mediaType>"Print  and AudioBook"^^
+19559	<http://dbpedia.org/property/mediaType>"Print  and Audiobook"^^
+19560	<http://dbpedia.org/property/mediaType>"Print  and audio CD"^^
+19561	<http://dbpedia.org/property/mediaType>"Print  and audio cassette"^^
+19562	<http://dbpedia.org/property/mediaType>"Print  and audio-CD"^^
+19563	<http://dbpedia.org/property/mediaType>"Print  and audiobook"^^
+19564	<http://dbpedia.org/property/mediaType>"Print  and eBook"^^
+19565	<http://dbpedia.org/property/mediaType>"Print  and"^^
+19566	<http://dbpedia.org/property/mediaType>"Print  crimeline - reprint edition"^^
+19567	<http://dbpedia.org/property/mediaType>"Print  eBook and audiobook"^^
+19568	<http://dbpedia.org/property/mediaType>"Print &  eBook"^^
+19569	<http://dbpedia.org/property/mediaType>"Print &  ebook"^^
+19570	<http://dbpedia.org/property/mediaType>"Print & Audio"^^
+19571	<http://dbpedia.org/property/mediaType>"Print & Audiobook"^^
+19572	<http://dbpedia.org/property/mediaType>"Print & e-book"^^
+19573	<http://dbpedia.org/property/mediaType>"Print & eBook"^^
+19574	<http://dbpedia.org/property/mediaType>"Print & ebook"^^
+19575	<http://dbpedia.org/property/mediaType>"Print &ndash; hardcover"^^
+19576	<http://dbpedia.org/property/mediaType>"Print )"^^
+19577	<http://dbpedia.org/property/mediaType>"Print +"^^
+19578	<http://dbpedia.org/property/mediaType>"Print , 4 volumes"^^
+19579	<http://dbpedia.org/property/mediaType>"Print , Audio Books"^^
+19580	<http://dbpedia.org/property/mediaType>"Print , Audio CD"^^
+19581	<http://dbpedia.org/property/mediaType>"Print , Audio CD, Audio cassette, Audio download"^^
+19582	<http://dbpedia.org/property/mediaType>"Print , Audio Cassette, Audio Download, e-book"^^
+19583	<http://dbpedia.org/property/mediaType>"Print , Audio book"^^
+19584	<http://dbpedia.org/property/mediaType>"Print , Audio"^^
+19585	<http://dbpedia.org/property/mediaType>"Print , Audiobook"^^
+19586	<http://dbpedia.org/property/mediaType>"Print , Audiobook, Ebook"^^
+19587	<http://dbpedia.org/property/mediaType>"Print , Audiobook, MP3 CD"^^
+19588	<http://dbpedia.org/property/mediaType>"Print , Beginner Books"^^
+19589	<http://dbpedia.org/property/mediaType>"Print , CD"^^
+19590	<http://dbpedia.org/property/mediaType>"Print , Compact Disc, Book on Tape"^^
+19591	<http://dbpedia.org/property/mediaType>"Print , Digital Audio Download"^^
+19592	<http://dbpedia.org/property/mediaType>"Print , E-Book"^^
+19593	<http://dbpedia.org/property/mediaType>"Print , E-book"^^
+19594	<http://dbpedia.org/property/mediaType>"Print , Ebook"^^
+19595	<http://dbpedia.org/property/mediaType>"Print , On-line"^^
+19596	<http://dbpedia.org/property/mediaType>"Print , audio book & e-book"^^
+19597	<http://dbpedia.org/property/mediaType>"Print , audio book"^^
+19598	<http://dbpedia.org/property/mediaType>"Print , audio cassette and audio CD"^^
+19599	<http://dbpedia.org/property/mediaType>"Print , audio cassette, and audio download"^^
+19600	<http://dbpedia.org/property/mediaType>"Print , audio cassette, audio CD, and audio download"^^
+19601	<http://dbpedia.org/property/mediaType>"Print , audio"^^
+19602	<http://dbpedia.org/property/mediaType>"Print , audio-CD"^^
+19603	<http://dbpedia.org/property/mediaType>"Print , audiobook CD"^^
+19604	<http://dbpedia.org/property/mediaType>"Print , audiobook"^^
+19605	<http://dbpedia.org/property/mediaType>"Print , audiobook,"^^
+19606	<http://dbpedia.org/property/mediaType>"Print , e-book"^^
+19607	<http://dbpedia.org/property/mediaType>"Print , e-book, audio-CD"^^
+19608	<http://dbpedia.org/property/mediaType>"Print , e-book, audiobook"^^
+19609	<http://dbpedia.org/property/mediaType>"Print , eBook"^^
+19610	<http://dbpedia.org/property/mediaType>"Print , ebook"^^
+19611	<http://dbpedia.org/property/mediaType>"Print , free online text"^^
+19612	<http://dbpedia.org/property/mediaType>"Print , free text online"^^
+19613	<http://dbpedia.org/property/mediaType>"Print , mass-market paperback"^^
+19614	<http://dbpedia.org/property/mediaType>"Print , paperback"^^
+19615	<http://dbpedia.org/property/mediaType>"Print , unabridged audio CD, audiobook download, eBook"^^
+19616	<http://dbpedia.org/property/mediaType>"Print ,"^^
+19617	<http://dbpedia.org/property/mediaType>"Print ,digital"^^
+19618	<http://dbpedia.org/property/mediaType>"Print - Hardback & Paperback"^^
+19619	<http://dbpedia.org/property/mediaType>"Print - hardcover"^^
+19620	<http://dbpedia.org/property/mediaType>"Print -- Hardcover"^^
+19621	<http://dbpedia.org/property/mediaType>"Print ."^^
+19622	<http://dbpedia.org/property/mediaType>"Print ; Audiobook"^^
+19623	<http://dbpedia.org/property/mediaType>"Print ; audiobook"^^
+19624	<http://dbpedia.org/property/mediaType>"Print Hardback & Paperback & Audio Book Compact audio cassette, Compact Disc"^^
+19625	<http://dbpedia.org/property/mediaType>"Print Hardback & Paperback & Compact audio cassette, Compact Disc"^^
+19626	<http://dbpedia.org/property/mediaType>"Print Hardback & Paperback"^^
+19627	<http://dbpedia.org/property/mediaType>"Print Hardback & Paperback, Audio Book"^^
+19628	<http://dbpedia.org/property/mediaType>"Print Hardback and Paperback"^^
+19629	<http://dbpedia.org/property/mediaType>"Print Hardback and Paperback)"^^
+19630	<http://dbpedia.org/property/mediaType>"Print Hardback"^^
+19631	<http://dbpedia.org/property/mediaType>"Print Hardbound & Paperback & E-Book"^^
+19632	<http://dbpedia.org/property/mediaType>"Print Hardcover & Paperback"^^
+19633	<http://dbpedia.org/property/mediaType>"Print Hardcover and Paperback"^^
+19634	<http://dbpedia.org/property/mediaType>"Print Hardcover"^^
+19635	<http://dbpedia.org/property/mediaType>"Print Hardcover, Paperback"^^
+19636	<http://dbpedia.org/property/mediaType>"Print Hardcover, Paperback, e-book"^^
+19637	<http://dbpedia.org/property/mediaType>"Print Mass market paperback"^^
+19638	<http://dbpedia.org/property/mediaType>"Print Paperback"^^
+19639	<http://dbpedia.org/property/mediaType>"Print Paperback)"^^
+19640	<http://dbpedia.org/property/mediaType>"Print Print"^^
 19641	<http://dbpedia.org/property/mediaType>"Print ]"^^
 19642	<http://dbpedia.org/property/mediaType>"Print also available free from amazon kindle books."^^
 19643	<http://dbpedia.org/property/mediaType>"Print and e-book"^^
@@ -19839,12 +19731,7 @@ Print"^^
 19730	<http://dbpedia.org/property/music><http://dbpedia.org/resource/Tomoki_Hasegawa>
 19731	<http://dbpedia.org/property/music><http://dbpedia.org/resource/Toshihiko_Sahashi>
 19732	<http://dbpedia.org/property/music><http://dbpedia.org/resource/Yoko_Kanno>
-19733	<http://dbpedia.org/property/mute>"* Ismenia
-* Corinthian Woman
-* Reconciliation
-* Four Scythian Policemen
-* Scythian Policewoman
-* Athenian citizens, Spartan envoys, slaves et al."^^
+19733	<http://dbpedia.org/property/mute>"* Ismenia* Corinthian Woman* Reconciliation* Four Scythian Policemen* Scythian Policewoman* Athenian citizens, Spartan envoys, slaves et al."^^
 19734	<http://dbpedia.org/property/mute>"Alexander the Great"^^
 19735	<http://dbpedia.org/property/mute>"Alexander's Paramour"^^
 19736	<http://dbpedia.org/property/mute>"Daughters of Oedipus"^^
@@ -32094,16 +31981,10 @@ Print"^^
 31980	<http://dbpedia.org/property/page>"160"^^
 31981	<http://dbpedia.org/property/page>"199"^^
 31982	<http://dbpedia.org/property/pages(pocketEdition)_>"982"^^
-31983	<http://dbpedia.org/property/pages>"* 204 
-* 239 
-* 352"^^
-31984	<http://dbpedia.org/property/pages>"* 208 pp 
-* 224 pp"^^
-31985	<http://dbpedia.org/property/pages>"* 335 
-* 353 pp"^^
-31986	<http://dbpedia.org/property/pages>"* 672 pp, 1979
-* 1370 pp, 1993
-* 1396 pp, 1999"^^
+31983	<http://dbpedia.org/property/pages>"* 204 * 239 * 352"^^
+31984	<http://dbpedia.org/property/pages>"* 208 pp * 224 pp"^^
+31985	<http://dbpedia.org/property/pages>"* 335 * 353 pp"^^
+31986	<http://dbpedia.org/property/pages>"* 672 pp, 1979* 1370 pp, 1993* 1396 pp, 1999"^^
 31987	<http://dbpedia.org/property/pages>"0"^^
 31988	<http://dbpedia.org/property/pages>"100"^^
 31989	<http://dbpedia.org/property/pages>"1000"^^
@@ -33029,8 +32910,7 @@ Print"^^
 32909	<http://dbpedia.org/property/place>"Edinburgh, Scotland"^^
 32910	<http://dbpedia.org/property/place>"Goodman Theatre, Chicago"^^
 32911	<http://dbpedia.org/property/place>"Independent Theatre, Sydney"^^
-32912	<http://dbpedia.org/property/place>"London
-  Director – Tony Richardson"^^
+32912	<http://dbpedia.org/property/place>"London  Director – Tony Richardson"^^
 32913	<http://dbpedia.org/property/place>"London"^^
 32914	<http://dbpedia.org/property/place>"London, England"^^
 32915	<http://dbpedia.org/property/place>"London, UK"^^
@@ -33309,8 +33189,7 @@ Print"^^
 33188	<http://dbpedia.org/property/precededBy>"The Seven Lamps of Architecture"^^
 33189	<http://dbpedia.org/property/precededBy>"The Spell Sword and the Hilary Castamir stories in Marion Zimmer Bradley's Darkover"^^
 33190	<http://dbpedia.org/property/precededBy>"The Squire's Tale"^^
-33191	<http://dbpedia.org/property/precededBy>"The Story of the Stone
-Also published in omnibus edition:  The Chronicles of Master Li and Number Ten Ox."^^
+33191	<http://dbpedia.org/property/precededBy>"The Story of the StoneAlso published in omnibus edition:  The Chronicles of Master Li and Number Ten Ox."^^
 33192	<http://dbpedia.org/property/precededBy>"The Sweet Forever"^^
 33193	<http://dbpedia.org/property/precededBy>"The Templar Legacy"^^
 33194	<http://dbpedia.org/property/precededBy>"The Ten Teacups aka The Peacock Feather Murders"^^
@@ -35957,8 +35836,7 @@ Also published in omnibus edition:  The Chronicles of Master Li and Number Ten O
 35835	<http://dbpedia.org/property/productionHistory>"--11-21"^^
 35836	<http://dbpedia.org/property/productionHistory>"US Revival – 1952"^^
 35837	<http://dbpedia.org/property/productions>"2011"^^
-35838	<http://dbpedia.org/property/pubDate>"*1956
-*1967"^^
+35838	<http://dbpedia.org/property/pubDate>"*1956*1967"^^
 35839	<http://dbpedia.org/property/pubDate>"--03-25"^^
 35840	<http://dbpedia.org/property/pubDate>"--07-01"^^
 35841	<http://dbpedia.org/property/pubDate>"--08-01"^^
@@ -36731,59 +36609,25 @@ Also published in omnibus edition:  The Chronicles of Master Li and Number Ten O
 36608	<http://dbpedia.org/property/publishDate>"1996-07-25"^^
 36609	<http://dbpedia.org/property/publishDate>"1996-08-29"^^
 36610	<http://dbpedia.org/property/published>"* 1847"^^
-36611	<http://dbpedia.org/property/published>"* 1936  
-* 1959"^^
-36612	<http://dbpedia.org/property/published>"* 1944 
-* 1944"^^
-36613	<http://dbpedia.org/property/published>"* 1949 
-* 1968 
-* 2008"^^
-36614	<http://dbpedia.org/property/published>"* 1968 Harper & Row 
-* 1969 Victor Gollancz"^^
-36615	<http://dbpedia.org/property/published>"* 1971 
-* 1975 
-* 1999"^^
-36616	<http://dbpedia.org/property/published>"* 1973 
-* 1974 
-* 1987"^^
-36617	<http://dbpedia.org/property/published>"* 1996 
-* 2003"^^
-36618	<http://dbpedia.org/property/published>"* Preparation for Parenting: Bringing God's Order to Your Baby's Day and Restful Sleep to Your Baby's Night, Growing Families International, ISBN 9781883035099 
-* On Becoming Babywise: More Than a Survival Guide, Growing Families International, ISBN 1-883035-99-6 
-* On Becoming Baby Wise: Learn How Over 100,000 Babies Were Trained to Sleep Through the Night the Natural Way, Multnomah Books, ISBN 0-88070-775-5
-* On Becoming Baby Wise: Learn How Over 500,000 Babies Were Trained to Sleep Through the Night the Natural Way, Multnomah Books, ISBN 1-57673-458-7
-* On Becoming Baby Wise: The Classic Sleep Reference Guide Utilized by Over 1,000,000 Parents World-Wide, Parent-Wise Solutions, ISBN 0-9714532-0-9
-* On Becoming Baby Wise: Giving Your Infant the Gift of Nighttime Sleep, Parent-Wise Solutions, ISBN 1-932740-08-2
-* On Becoming Baby Wise: Giving Your Infant the Gift of Nighttime Sleep, Parent-Wise Solutions, ISBN 1-932740-13-9"^^
-36619	<http://dbpedia.org/property/published>"*1923 
-*1971"^^
-36620	<http://dbpedia.org/property/published>"*1934 
-*1959"^^
-36621	<http://dbpedia.org/property/published>"*1962 
-*1983"^^
-36622	<http://dbpedia.org/property/published>"*1967 
-*1970"^^
-36623	<http://dbpedia.org/property/published>"*1968 
-*1994"^^
-36624	<http://dbpedia.org/property/published>"*1970 
-*1981 
-*1988"^^
-36625	<http://dbpedia.org/property/published>"*1972 
-*1977"^^
-36626	<http://dbpedia.org/property/published>"*1980 
-*1987"^^
-36627	<http://dbpedia.org/property/published>"*1982 
-*1982"^^
-36628	<http://dbpedia.org/property/published>"*1986 
-*1993 
-*1999 
-*2003 
-*2007 
-*2009 
-*2011 
-*2014"^^
-36629	<http://dbpedia.org/property/published>"*1991 
-*1994"^^
+36611	<http://dbpedia.org/property/published>"* 1936  * 1959"^^
+36612	<http://dbpedia.org/property/published>"* 1944 * 1944"^^
+36613	<http://dbpedia.org/property/published>"* 1949 * 1968 * 2008"^^
+36614	<http://dbpedia.org/property/published>"* 1968 Harper & Row * 1969 Victor Gollancz"^^
+36615	<http://dbpedia.org/property/published>"* 1971 * 1975 * 1999"^^
+36616	<http://dbpedia.org/property/published>"* 1973 * 1974 * 1987"^^
+36617	<http://dbpedia.org/property/published>"* 1996 * 2003"^^
+36618	<http://dbpedia.org/property/published>"* Preparation for Parenting: Bringing God's Order to Your Baby's Day and Restful Sleep to Your Baby's Night, Growing Families International, ISBN 9781883035099 * On Becoming Babywise: More Than a Survival Guide, Growing Families International, ISBN 1-883035-99-6 * On Becoming Baby Wise: Learn How Over 100,000 Babies Were Trained to Sleep Through the Night the Natural Way, Multnomah Books, ISBN 0-88070-775-5* On Becoming Baby Wise: Learn How Over 500,000 Babies Were Trained to Sleep Through the Night the Natural Way, Multnomah Books, ISBN 1-57673-458-7* On Becoming Baby Wise: The Classic Sleep Reference Guide Utilized by Over 1,000,000 Parents World-Wide, Parent-Wise Solutions, ISBN 0-9714532-0-9* On Becoming Baby Wise: Giving Your Infant the Gift of Nighttime Sleep, Parent-Wise Solutions, ISBN 1-932740-08-2* On Becoming Baby Wise: Giving Your Infant the Gift of Nighttime Sleep, Parent-Wise Solutions, ISBN 1-932740-13-9"^^
+36619	<http://dbpedia.org/property/published>"*1923 *1971"^^
+36620	<http://dbpedia.org/property/published>"*1934 *1959"^^
+36621	<http://dbpedia.org/property/published>"*1962 *1983"^^
+36622	<http://dbpedia.org/property/published>"*1967 *1970"^^
+36623	<http://dbpedia.org/property/published>"*1968 *1994"^^
+36624	<http://dbpedia.org/property/published>"*1970 *1981 *1988"^^
+36625	<http://dbpedia.org/property/published>"*1972 *1977"^^
+36626	<http://dbpedia.org/property/published>"*1980 *1987"^^
+36627	<http://dbpedia.org/property/published>"*1982 *1982"^^
+36628	<http://dbpedia.org/property/published>"*1986 *1993 *1999 *2003 *2007 *2009 *2011 *2014"^^
+36629	<http://dbpedia.org/property/published>"*1991 *1994"^^
 36630	<http://dbpedia.org/property/published>"--08-12"^^
 36631	<http://dbpedia.org/property/published>"--08-13"^^
 36632	<http://dbpedia.org/property/published>"1722"^^
@@ -37720,16 +37564,7 @@ Also published in omnibus edition:  The Chronicles of Master Li and Number Ten O
 37563	<http://dbpedia.org/property/publisher>"Terrace Publishing"^^
 37564	<http://dbpedia.org/property/publisher>"Text Publishing, Australia"^^
 37565	<http://dbpedia.org/property/publisher>"Thacker, Spink and Company, Calcutta"^^
-37566	<http://dbpedia.org/property/publisher>"The Berkley Publishing Group
-ISBN 0-425-14368-6 
-
-ISBN 0-340-60922-2 "The Light Bearer," first British edition, Hodder and Stoughton, 1994, trade paperback
-
-ISBN 3-8105-0887-X "Mondfeuer;" or Fire from the Moon; first German edition, translated by Manfred Ohl; S. Fischer, 1994, hardback
-
-ISBN 90-225-2066-8 "Auriane, Dochter van het Licht," or Auriane, Daughter of Light, first Dutch edition, translated by Ineke van Bronswijk; De Boekerij, 1996 hardback
-
-ISBN 978-88-7424-578-9 "La Luce del Nord," or Light of the North, first Italian edition, translated by Elisa Canuti; Aliberti Editore, 2010; trade paperback"^^
+37566	<http://dbpedia.org/property/publisher>"The Berkley Publishing GroupISBN 0-425-14368-6 ISBN 0-340-60922-2 "The Light Bearer," first British edition, Hodder and Stoughton, 1994, trade paperbackISBN 3-8105-0887-X "Mondfeuer;" or Fire from the Moon; first German edition, translated by Manfred Ohl; S. Fischer, 1994, hardbackISBN 90-225-2066-8 "Auriane, Dochter van het Licht," or Auriane, Daughter of Light, first Dutch edition, translated by Ineke van Bronswijk; De Boekerij, 1996 hardbackISBN 978-88-7424-578-9 "La Luce del Nord," or Light of the North, first Italian edition, translated by Elisa Canuti; Aliberti Editore, 2010; trade paperback"^^
 37567	<http://dbpedia.org/property/publisher>"The Bodley Head and Penguin Books"^^
 37568	<http://dbpedia.org/property/publisher>"The Crime Club"^^
 37569	<http://dbpedia.org/property/publisher>"The Doubleday Broadway Publishing Group"^^
@@ -37762,8 +37597,7 @@ ISBN 978-88-7424-578-9 "La Luce del Nord," or Light of the North, first Italian 
 37596	<http://dbpedia.org/property/publisher>"Tor"^^
 37597	<http://dbpedia.org/property/publisher>"Touchstone"^^
 37598	<http://dbpedia.org/property/publisher>"Touchstone, Simon & Schuster"^^
-37599	<http://dbpedia.org/property/publisher>"Towarzystwo Wydawnicze "Rój", Warsaw ;
-Harcourt, Brace and World ; Yale University Press"^^
+37599	<http://dbpedia.org/property/publisher>"Towarzystwo Wydawnicze "Rój", Warsaw ;Harcourt, Brace and World ; Yale University Press"^^
 37600	<http://dbpedia.org/property/publisher>"Tower"^^
 37601	<http://dbpedia.org/property/publisher>"Transworld & Bantam Books"^^
 37602	<http://dbpedia.org/property/publisher>"Transworld Publishers Limited, Doubleday Publishing, Randomhouse Inc."^^
@@ -38616,16 +38450,11 @@ Harcourt, Brace and World ; Yale University Press"^^
 38449	<http://dbpedia.org/property/quote>""Yes, I have tricks in my pocket, I have things up my sleeve. But I am the opposite of a stage magician. He gives you illusion that has the appearance of truth. I give you truth in the pleasant disguise of illusion.""^^
 38450	<http://dbpedia.org/property/quote>""[T]he subtitle of this book should really be 'a history of modern pagan witchcraft in South Britain , with some reference to it in the rest of the British Isles, Continental Europe and North America'. The fact that it claims to be a history and not the history is in itself significant, for this book represents the first systematic attempt by a professional historian to characterize and account for this aspect of modern Western culture.""^^
 38451	<http://dbpedia.org/property/quote>""[Whitmore's] whole purpose is simply to undermine confidence in me, so that—presumably—Pagan witches can go back to believing whatever they did before I wrote. Most of the points on which he tries to fault me are on detail, often trivial, and his hope is clearly that if he can put enough small cuts into my reputation for reliability, then faith in it will leak away.""^^
-38452	<http://dbpedia.org/property/quote>"'Way back in the dark days of the Early Sixties, regrettable tho it was—men fought, bled, and died for the freedom of the negro—her freedom!—and she stood by and did her duty to the last ditch—
-
-It was and is her life to serve, and she has done it well.
-
-While shot and shell thundered to release the shackles of slavery from her body and her soul—she loved, fought for, and protected—Us who held her in bondage, her "Marster" and her "Missus!""^^
+38452	<http://dbpedia.org/property/quote>"'Way back in the dark days of the Early Sixties, regrettable tho it was—men fought, bled, and died for the freedom of the negro—her freedom!—and she stood by and did her duty to the last ditch—It was and is her life to serve, and she has done it well.While shot and shell thundered to release the shackles of slavery from her body and her soul—she loved, fought for, and protected—Us who held her in bondage, her "Marster" and her "Missus!""^^
 38453	<http://dbpedia.org/property/quote>"'You can't bless Allah!' he exclaimed, changing 'bless' to 'praise.' ... He scratched red through 'we kids.' 'Kids are goats!' he exclaimed sharply."^^
 38454	<http://dbpedia.org/property/quote>"... high-flown and romanticized caricatures of episodes in the career of an outstanding public servant."^^
 38455	<http://dbpedia.org/property/quote>"..."^^
-38456	<http://dbpedia.org/property/quote>"...the complaints about alternative histories being "too much like" our history are always balanced, sometimes in the same commentator, by complaints that it is "too different to be possible," and I have concluded that really one can't win: alternatives to our world history are in some deep sense unthinkable. The alternative history then becomes an exercise in pushing at that limit and always
-asking "why" to one's responses concerning "plausibility" or the like."^^
+38456	<http://dbpedia.org/property/quote>"...the complaints about alternative histories being "too much like" our history are always balanced, sometimes in the same commentator, by complaints that it is "too different to be possible," and I have concluded that really one can't win: alternatives to our world history are in some deep sense unthinkable. The alternative history then becomes an exercise in pushing at that limit and alwaysasking "why" to one's responses concerning "plausibility" or the like."^^
 38457	<http://dbpedia.org/property/quote>"1.0414008E9"^^
 38458	<http://dbpedia.org/property/quote>"127"^^
 38459	<http://dbpedia.org/property/quote>"99"^^
@@ -38638,18 +38467,8 @@ asking "why" to one's responses concerning "plausibility" or the like."^^
 38466	<http://dbpedia.org/property/quote>"Consuls of the Molossian and their allies,"^^
 38467	<http://dbpedia.org/property/quote>"Every single man I did get to know filled me with but one desire: to lift my hand and bring it smashing down on his face."^^
 38468	<http://dbpedia.org/property/quote>"Fleming did not use class enemies for his villains, instead relying on physical distortion or ethnic identity ... Furthermore, in Britain foreign villains used foreign servants and employees ... This racism reflected not only a pronounced theme of interwar adventure writing, such as the novels of [John] Buchan, but also widespread literary culture."^^
-38469	<http://dbpedia.org/property/quote>"From Digging
-
-Between my finger and my thumb
-The squat pen rests.
-I’ll dig with it."^^
-38470	<http://dbpedia.org/property/quote>"From Mid-term Break
-
-Wearing a poppy bruise on his left temple,
-He lay in the four foot box as in his cot.
-No gaudy scars, the bumper knocked him clear.
-
-A four foot box, a foot for every year."^^
+38469	<http://dbpedia.org/property/quote>"From DiggingBetween my finger and my thumbThe squat pen rests.I’ll dig with it."^^
+38470	<http://dbpedia.org/property/quote>"From Mid-term BreakWearing a poppy bruise on his left temple,He lay in the four foot box as in his cot.No gaudy scars, the bumper knocked him clear.A four foot box, a foot for every year."^^
 38471	<http://dbpedia.org/property/quote>"Girlfriend wasn’t a consciously planned book. It pretty well erupted out of me. I started writing it at the start of 1996, during what was probably the darkest period of my life. I’d just returned in December 1995 from that disastrously exhausting European tour."^^
 38472	<http://dbpedia.org/property/quote>"He acquires layer after layer of diverse spirituality and brilliantly synthesizes it into a personal belief system and devotional life that is breathtaking in its depth and scope. His youthful exploration into comparative religion culminates in a magnificent epiphany of sorts."^^
 38473	<http://dbpedia.org/property/quote>"I found what follows lying on my desk one morning. As you will see, it appears to be the first person story of a young woman, evidently beautiful and not unskilled in the arts of love. According to her story, she appears to have been involved, both perilously and romantically, with the same James Bond whose secret service exploits I myself have written from time to time. With the manuscript was a note signed 'Vivienne Michel' assuring me that what she had written was 'purest truth and from the depths of her heart'. I was interested in this view of James Bond, through the wrong end of the telescope so to speak, and after obtaining clearance for certain minor infringements of the Official Secrets Act I have much pleasure in sponsoring its publication."^^
@@ -38672,10 +38491,7 @@ A four foot box, a foot for every year."^^
 38490	<http://dbpedia.org/property/quote>"My version and theirs. And if this were being written down, both would seem equally concocted when read over. And if I were really telling, instead of talking to you in my mind the way I find I do... One is never talking to oneself, always one is addressed to someone. Suddenly, without knowing the reason, at different stages in one's life, one is addressing this person or that all the time..."^^
 38491	<http://dbpedia.org/property/quote>"No good book has ever been written that has in it symbols arrived at beforehand and stuck in .... I tried to make a real old man, a real boy, a real sea and a real fish and real sharks. But if I made them good and true enough they would mean many things."^^
 38492	<http://dbpedia.org/property/quote>"Now I'm writing this book because I wish animals could have more than just a low-stress life and a quick, painless death. I wish animals could have a good life, too, with something useful to do. I think we owe them that."^^
-38493	<http://dbpedia.org/property/quote>"Old longings nomadic leap,
- Chafing at custom’s chain;
- Again from its brumal sleep
- Wakens the ferine strain."^^
+38493	<http://dbpedia.org/property/quote>"Old longings nomadic leap, Chafing at custom’s chain; Again from its brumal sleep Wakens the ferine strain."^^
 38494	<http://dbpedia.org/property/quote>"One of the amazing things about the writing in To Kill a Mockingbird is the economy with which Harper Lee delineates not only race—white and black within a small community—but class. I mean different kinds of black people and white people both, from poor white trash to the upper crust—the whole social fabric."^^
 38495	<http://dbpedia.org/property/quote>"One thing that every Conflict Investment client Chris had ever dealt with had in common was their love of developed world technotoys. It was basic CI wisdom, handed down from partners to analysts everywhere in the trade. Don't stint on toys. At the top of every hardware gift list, you placed your state-of-the-art global communications gadgetry. That, and personalised airliners. Then the military stuff. Always in that order, it never failed."^^
 38496	<http://dbpedia.org/property/quote>"Parkaboy says you should go to new footage as though you've seen no previous footage at all, thereby momentarily escaping the film or films you've been assembling with, consciously or unconsciously, since first exposure. Homo sapiens are about pattern recognition, he says. Both a gift and a trap."^^
@@ -38686,16 +38502,8 @@ A four foot box, a foot for every year."^^
 38501	<http://dbpedia.org/property/quote>"Sure they can say anything about nothing happening in Across the River, all that happens is the defense of the lower Piave, the breakthrough in Normandy, the taking of Paris ... plus a man who loves a girl and dies."^^
 38502	<http://dbpedia.org/property/quote>"Take one down, patch it around."^^
 38503	<http://dbpedia.org/property/quote>"That demmed, elusive Pimpernel."^^
-38504	<http://dbpedia.org/property/quote>"The Great Affair
-The great affair, the love affair with life,
-is to live as variously as possible,
-to groom one's curiosity like a high-spirited thoroughbred,
-climb aboard, and gallop over the thick, sun-struck hills every day..
- 
-It began in mystery, and it will end in mystery,
-but what a savage and beautiful country lies in between."^^
-38505	<http://dbpedia.org/property/quote>"The apartment was right off Gotham Drive, just inside the diamond-spine of the great city. The Batman watched from one rooftop away. Watched the light go off as the apartment dropped into darkness. Something he didn't understand pulled him magnetically to that spot. He knew who lived there—the incest offender who told Debra Kane how much he loved his little girl. But what was he doing... 
-"No!" he said to himself. "I took an oath. The authorities already know about him. I can't just ...""^^
+38504	<http://dbpedia.org/property/quote>"The Great AffairThe great affair, the love affair with life,is to live as variously as possible,to groom one's curiosity like a high-spirited thoroughbred,climb aboard, and gallop over the thick, sun-struck hills every day.. It began in mystery, and it will end in mystery,but what a savage and beautiful country lies in between."^^
+38505	<http://dbpedia.org/property/quote>"The apartment was right off Gotham Drive, just inside the diamond-spine of the great city. The Batman watched from one rooftop away. Watched the light go off as the apartment dropped into darkness. Something he didn't understand pulled him magnetically to that spot. He knew who lived there—the incest offender who told Debra Kane how much he loved his little girl. But what was he doing... "No!" he said to himself. "I took an oath. The authorities already know about him. I can't just ...""^^
 38506	<http://dbpedia.org/property/quote>"The book has a bright and joyous atmosphere, and does not dwell upon killing and deeds of violence. Enough stirring adventure enters into it, however, to flavor it with zest, and it will indeed be strange if there be a normal child who will not enjoy the story."^^
 38507	<http://dbpedia.org/property/quote>"The drawing as well as the introduced color work vies with the texts drawn, and the result has been a book that rises far above the average children's book of today, high as is the present standard."^^
 38508	<http://dbpedia.org/property/quote>"The future is there ... looking back at us. Trying to make sense of the fiction we will have become. And from where they are, the past behind us will look nothing at all like the past we imagine behind us now. ... I only know that the one constant in history is change: The past changes. Our version of the past will interest the future about the extent we're interested in whatever past the Victorians believed in. It simply won't seem very relevant."^^
@@ -38713,15 +38521,7 @@ but what a savage and beautiful country lies in between."^^
 38520	<http://dbpedia.org/property/quote>"Wearing still on his pale, sweet face—"^^
 38521	<http://dbpedia.org/property/quote>"What happens to a dream deferred? Does it dry up like a raisin in the sun?"^^
 38522	<http://dbpedia.org/property/quote>"When Microserfs first came out, most people thought it was a tightly focused anthropological look at a tiny group of historically transient information workers in the American Pacific Northwest. It turns out they were forming a template of the way everyone else in the world works in and around information. As time went on it became a lot broader, instead of a lot narrower, which is what happened with Generation X."^^
-38523	<http://dbpedia.org/property/quote>"You could not shock her more than she shocks me,
-Beside her Joyce seems innocent as grass.
-It makes me most uncomfortable to see 
-An English spinster of the middle class 
-Describe the amorous effects of 'brass',
-Reveal so frankly and with such sobriety 
-The economic basis of society.
-
-W.H.Auden  on Austen"^^
+38523	<http://dbpedia.org/property/quote>"You could not shock her more than she shocks me,Beside her Joyce seems innocent as grass.It makes me most uncomfortable to see An English spinster of the middle class Describe the amorous effects of 'brass',Reveal so frankly and with such sobriety The economic basis of society.W.H.Auden  on Austen"^^
 38524	<http://dbpedia.org/property/quote>"You may think of The Gathering Storm and its followers as the three volumes of A Memory of Light or as the final three books of The Wheel of Time. Both are correct"^^
 38525	<http://dbpedia.org/property/quote>"Zeus of Dodona, give heed to this gift"^^
 38526	<http://dbpedia.org/property/quote>"[...] a million bureaucrats are diligently plotting death and some of them even know it [...]"^^
@@ -38731,13 +38531,8 @@ W.H.Auden  on Austen"^^
 38530	<http://dbpedia.org/property/quote>"descended for 30 generations"^^
 38531	<http://dbpedia.org/property/quote>"from Kassandra of Troy."^^
 38532	<http://dbpedia.org/property/quote>"the Zakythian family,"^^
-38533	<http://dbpedia.org/property/quote>"“"My reports of Zeitun differ from those of Your Excellency." Lepsius planted this blow in hesitant syllables. "My accounts make no mention of any revolt of the population there but of provocative oppression lasting over a period of months by the district and sanjak officials. They speak of some trifling disorder, which could easily have been checked by strengthening the town police, whereas any fair-minded person can easily perceive a deliberate intention in military reinforcements of more than a thousand strong."
-   "You’ve been given false information." Enver was still quietly well behaved. "May I inquire who your informants were, Herr Lepsius?"
-   "I can name a few of them, but I may as well say that no Armenian sources are included. On the other hand I have the specific memoranda of various German consuls, reports from missionaries, the eyewitnesses of the worst atrocities. And finally I’ve been given a most consistent account of the whole business by the American ambassador, Mr. Morgenthau."
-   "Mr. Morgenthau," said Enver brightly, "is a Jew. And Jews are always fanatically on the side of minorities.""^^
-38534	<http://dbpedia.org/property/quote>"“The Soviet Union was destroyed by information
-- and this wave started from Solzhenitsyn's One Day    ”
-—Vitaly Korotich"^^
+38533	<http://dbpedia.org/property/quote>"“"My reports of Zeitun differ from those of Your Excellency." Lepsius planted this blow in hesitant syllables. "My accounts make no mention of any revolt of the population there but of provocative oppression lasting over a period of months by the district and sanjak officials. They speak of some trifling disorder, which could easily have been checked by strengthening the town police, whereas any fair-minded person can easily perceive a deliberate intention in military reinforcements of more than a thousand strong."   "You’ve been given false information." Enver was still quietly well behaved. "May I inquire who your informants were, Herr Lepsius?"   "I can name a few of them, but I may as well say that no Armenian sources are included. On the other hand I have the specific memoranda of various German consuls, reports from missionaries, the eyewitnesses of the worst atrocities. And finally I’ve been given a most consistent account of the whole business by the American ambassador, Mr. Morgenthau."   "Mr. Morgenthau," said Enver brightly, "is a Jew. And Jews are always fanatically on the side of minorities.""^^
+38534	<http://dbpedia.org/property/quote>"“The Soviet Union was destroyed by information- and this wave started from Solzhenitsyn's One Day    ”—Vitaly Korotich"^^
 38535	<http://dbpedia.org/property/quoted>"1"^^
 38536	<http://dbpedia.org/property/quoted>"true"^^
 38537	<http://dbpedia.org/property/quoteheight>"##px"^^
@@ -38785,89 +38580,16 @@ W.H.Auden  on Austen"^^
 38579	<http://dbpedia.org/property/reference>""Weyr Search". . Retrieved 2011-10-25."^^
 38580	<http://dbpedia.org/property/reference>". Retrieved 2011-10-09. Select a title to see its linked publication history and general information. Select a particular edition  for more data at that level, such as a front cover image or linked contents."^^
 38581	<http://dbpedia.org/property/reference>". Retrieved 2011-11-05."^^
-38582	<http://dbpedia.org/property/refs>"* 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*"^^
+38582	<http://dbpedia.org/property/refs>"* *"^^
 38583	<http://dbpedia.org/property/related><http://dbpedia.org/resource/How_to_Start_Your_Own_Country>
 38584	<http://dbpedia.org/property/reldate>"2004-03-04"^^
 38585	<http://dbpedia.org/property/reldate>"2004-06-04"^^
 38586	<http://dbpedia.org/property/reldate>"2004-11-04"^^
 38587	<http://dbpedia.org/property/reldate>"2005-04-04"^^
 38588	<http://dbpedia.org/property/releaseDate(inBookForm)_>"14"^^
-38589	<http://dbpedia.org/property/releaseDate>"* 1934 
-* 1951"^^
-38590	<http://dbpedia.org/property/releaseDate>"* 1964 
-* 1967"^^
-38591	<http://dbpedia.org/property/releaseDate>"* August 1996
-* January 1997"^^
+38589	<http://dbpedia.org/property/releaseDate>"* 1934 * 1951"^^
+38590	<http://dbpedia.org/property/releaseDate>"* 1964 * 1967"^^
+38591	<http://dbpedia.org/property/releaseDate>"* August 1996* January 1997"^^
 38592	<http://dbpedia.org/property/releaseDate>"--01-01"^^
 38593	<http://dbpedia.org/property/releaseDate>"--03-03"^^
 38594	<http://dbpedia.org/property/releaseDate>"--03-08"^^
@@ -40494,9 +40216,8 @@ W.H.Auden  on Austen"^^
 40215	<http://dbpedia.org/property/releaseDate>"October 1985"^^
 40216	<http://dbpedia.org/property/releaseDate>"October 1986"^^
 40217	<http://dbpedia.org/property/releaseDate>"October 1987"^^
-40218	<http://dbpedia.org/property/releaseDate>"October 1988
-Print"^^
-40219	<http://dbpedia.org/property/releaseDate>"October 1988"^^
+40218	<http://dbpedia.org/property/releaseDate>"October 1988"^^
+40219	<http://dbpedia.org/property/releaseDate>"October 1988Print"^^
 40220	<http://dbpedia.org/property/releaseDate>"October 1989"^^
 40221	<http://dbpedia.org/property/releaseDate>"October 1990"^^
 40222	<http://dbpedia.org/property/releaseDate>"October 1991"^^
@@ -40637,12 +40358,8 @@ Print"^^
 40357	<http://dbpedia.org/property/reson>"1300"^^
 40358	<http://dbpedia.org/property/reson>"1451"^^
 40359	<http://dbpedia.org/property/reson>"859"^^
-40360	<http://dbpedia.org/property/result>"Confederate and Allied victory 
-* Confederate States: The CSA retains Sonora and Chihuahua as recognized territory. 
-* United States: The United States cedes northern Maine to the United Kingdom, which becomes part of the Canadian province of New Brunswick."^^
-40361	<http://dbpedia.org/property/result>"Confederate and Allied victory 
-* Creation of the Confederate States of America 
-* Economic Crash in the United States in 1863"^^
+40360	<http://dbpedia.org/property/result>"Confederate and Allied victory * Confederate States: The CSA retains Sonora and Chihuahua as recognized territory. * United States: The United States cedes northern Maine to the United Kingdom, which becomes part of the Canadian province of New Brunswick."^^
+40361	<http://dbpedia.org/property/result>"Confederate and Allied victory * Creation of the Confederate States of America * Economic Crash in the United States in 1863"^^
 40362	<http://dbpedia.org/property/revisedName>"Mystery of the Moss-Covered Mansion"^^
 40363	<http://dbpedia.org/property/romajititle>"666"^^
 40364	<http://dbpedia.org/property/romajititle>"Adamu ・ Aakuraito"^^
@@ -40747,8 +40464,7 @@ Print"^^
 40463	<http://dbpedia.org/property/sequencenumber>"A100200"^^
 40464	<http://dbpedia.org/property/series>""Dryco" series"^^
 40465	<http://dbpedia.org/property/series>"#2"^^
-40466	<http://dbpedia.org/property/series>"''
-*"^^
+40466	<http://dbpedia.org/property/series>"''*"^^
 40467	<http://dbpedia.org/property/series>"'Dead' trilogy"^^
 40468	<http://dbpedia.org/property/series>"(Latin American Literature and culture)"^^
 40469	<http://dbpedia.org/property/series>"* ''"^^
@@ -41106,8 +40822,7 @@ Print"^^
 40821	<http://dbpedia.org/property/series>"Puffin number: 2"^^
 40822	<http://dbpedia.org/property/series>"Pyat Quartet"^^
 40823	<http://dbpedia.org/property/series>"Quantum Gravity"^^
-40824	<http://dbpedia.org/property/series>"Quintessence Editions Ltd., sholay biya
-The 1001 Before You Die series"^^
+40824	<http://dbpedia.org/property/series>"Quintessence Editions Ltd., sholay biyaThe 1001 Before You Die series"^^
 40825	<http://dbpedia.org/property/series>"Rabbi Small"^^
 40826	<http://dbpedia.org/property/series>"Rainbow  trilogy"^^
 40827	<http://dbpedia.org/property/series>"Rainbow trilogy"^^
@@ -41197,8 +40912,7 @@ The 1001 Before You Die series"^^
 40911	<http://dbpedia.org/property/series>"The Extraordinary Voyages #12"^^
 40912	<http://dbpedia.org/property/series>"The Extraordinary Voyages #14"^^
 40913	<http://dbpedia.org/property/series>"The Extraordinary Voyages #8"^^
-40914	<http://dbpedia.org/property/series>"The Famous Five series
-  Characters: Julian,Dick,Anne,George And Wilfrid"^^
+40914	<http://dbpedia.org/property/series>"The Famous Five series  Characters: Julian,Dick,Anne,George And Wilfrid"^^
 40915	<http://dbpedia.org/property/series>"The Famous Five series"^^
 40916	<http://dbpedia.org/property/series>"The Forest Kingdom"^^
 40917	<http://dbpedia.org/property/series>"The Forge of God Series"^^
@@ -42307,10 +42021,7 @@ The 1001 Before You Die series"^^
 42020	<http://dbpedia.org/property/subcat>"Wildstorm"^^
 42021	<http://dbpedia.org/property/subject>"--09-11"^^
 42022	<http://dbpedia.org/property/subject>"1930.0"^^
-42023	<http://dbpedia.org/property/subject>";Characters
-: Tiffany Aching, Nac Mac Feegle, Granny Weatherwax, Nanny Ogg
-;Locations
-: The Chalk, The Ramtops"^^
+42023	<http://dbpedia.org/property/subject>";Characters: Tiffany Aching, Nac Mac Feegle, Granny Weatherwax, Nanny Ogg;Locations: The Chalk, The Ramtops"^^
 42024	<http://dbpedia.org/property/subject>"A biography of Charlotte von Mahlsdorf"^^
 42025	<http://dbpedia.org/property/subject>"A blues group waits to get to work in the studio, and tempers flare."^^
 42026	<http://dbpedia.org/property/subject>"A celebrated American artist reunites with his former lover fifteen years after they parted ways"^^
@@ -42319,36 +42030,20 @@ The 1001 Before You Die series"^^
 42029	<http://dbpedia.org/property/subject>"A mysterious inspector interrogates a wealthy English family about their responsibility for the death of a young working class factory girl."^^
 42030	<http://dbpedia.org/property/subject>"A nun suspects a priest of molesting an altar boy"^^
 42031	<http://dbpedia.org/property/subject>"Action drama fiction"^^
-42032	<http://dbpedia.org/property/subject>"Affirmative action, firearms, and crime novels
-;Characters
-: The City Watch, Havelock Vetinari
-;Locations
-: Ankh-Morpork"^^
+42032	<http://dbpedia.org/property/subject>"Affirmative action, firearms, and crime novels;Characters: The City Watch, Havelock Vetinari;Locations: Ankh-Morpork"^^
 42033	<http://dbpedia.org/property/subject>"Air Combat, Espionage"^^
-42034	<http://dbpedia.org/property/subject>"Alien invasion SF, "Man with No Name" Westerns, Modernization, Shopping malls, Minority rights movements
-;Characters
-: Death, Unseen University staff
-;Locations
-: Ankh-Morpork, Octarine Grass Country"^^
+42034	<http://dbpedia.org/property/subject>"Alien invasion SF, "Man with No Name" Westerns, Modernization, Shopping malls, Minority rights movements;Characters: Death, Unseen University staff;Locations: Ankh-Morpork, Octarine Grass Country"^^
 42035	<http://dbpedia.org/property/subject>"American English style guide"^^
 42036	<http://dbpedia.org/property/subject>"American culture"^^
 42037	<http://dbpedia.org/property/subject>"An extravaganza of political history, literary pastiche, and Wildean parody, introducing Dadaist Tristan Tzara and Lenin his wife"^^
 42038	<http://dbpedia.org/property/subject>"An unruly bunch of bright, funny boys in pursuit of sex, sport and a place at university"^^
 42039	<http://dbpedia.org/property/subject>"Ancient Rome"^^
-42040	<http://dbpedia.org/property/subject>"Anthropomorphic personifications and death
-;Characters
-: Death, Mort, Ysabell, Albert
-;Locations
-: Death's Domain"^^
+42040	<http://dbpedia.org/property/subject>"Anthropomorphic personifications and death;Characters: Death, Mort, Ysabell, Albert;Locations: Death's Domain"^^
 42041	<http://dbpedia.org/property/subject>"Archaeology, Travel"^^
 42042	<http://dbpedia.org/property/subject>"Architecture"^^
 42043	<http://dbpedia.org/property/subject>"Art, architecture, photography"^^
 42044	<http://dbpedia.org/property/subject>"Articles, interviews, autobiography"^^
-42045	<http://dbpedia.org/property/subject>"Australia, Evolution
-;Characters
-: Rincewind, Unseen University Staff
-;Locations
-: FourEcks, Unseen University"^^
+42045	<http://dbpedia.org/property/subject>"Australia, Evolution;Characters: Rincewind, Unseen University Staff;Locations: FourEcks, Unseen University"^^
 42046	<http://dbpedia.org/property/subject>"Australian birds"^^
 42047	<http://dbpedia.org/property/subject>"Autobiography and biography"^^
 42048	<http://dbpedia.org/property/subject>"Autobiography"^^
@@ -42369,11 +42064,7 @@ The 1001 Before You Die series"^^
 42063	<http://dbpedia.org/property/subject>"Christian community"^^
 42064	<http://dbpedia.org/property/subject>"Christian studies books, Marriage, Self-help books, Sex manuals"^^
 42065	<http://dbpedia.org/property/subject>"Christianity"^^
-42066	<http://dbpedia.org/property/subject>"Christmas, children's stories, the power of belief
-;Characters
-: Death, Susan Sto Helit
-;Locations
-: Death's Domain"^^
+42066	<http://dbpedia.org/property/subject>"Christmas, children's stories, the power of belief;Characters: Death, Susan Sto Helit;Locations: Death's Domain"^^
 42067	<http://dbpedia.org/property/subject>"Cinema"^^
 42068	<http://dbpedia.org/property/subject>"Classical Mythology"^^
 42069	<http://dbpedia.org/property/subject>"Colonialism, the media"^^
@@ -42386,11 +42077,7 @@ The 1001 Before You Die series"^^
 42076	<http://dbpedia.org/property/subject>"Culinary Arts"^^
 42077	<http://dbpedia.org/property/subject>"Devotion to God"^^
 42078	<http://dbpedia.org/property/subject>"Difference"^^
-42079	<http://dbpedia.org/property/subject>"Diplomacy, Conspiracies, Vampires, Werewolves, Ship of Theseus
-;Characters
-: Samuel Vimes, Ankh-Morpork City Watch
-;Locations
-: Überwald"^^
+42079	<http://dbpedia.org/property/subject>"Diplomacy, Conspiracies, Vampires, Werewolves, Ship of Theseus;Characters: Samuel Vimes, Ankh-Morpork City Watch;Locations: Überwald"^^
 42080	<http://dbpedia.org/property/subject>"Divine retribution for human failure"^^
 42081	<http://dbpedia.org/property/subject>"Doctor Who"^^
 42082	<http://dbpedia.org/property/subject>"Dragons"^^
@@ -42400,63 +42087,19 @@ The 1001 Before You Die series"^^
 42086	<http://dbpedia.org/property/subject>"Dysfunction in suburbia"^^
 42087	<http://dbpedia.org/property/subject>"East/West cultural stereotypes"^^
 42088	<http://dbpedia.org/property/subject>"Ethics, social philosophy, philosophical anthropology, political philosophy, political sociology"^^
-42089	<http://dbpedia.org/property/subject>"Evolution
-;Characters
-: Rincewind, Unseen University Staff
-;Locations
-: Unseen University, Roundworld"^^
+42089	<http://dbpedia.org/property/subject>"Evolution;Characters: Rincewind, Unseen University Staff;Locations: Unseen University, Roundworld"^^
 42090	<http://dbpedia.org/property/subject>"Fairy tales"^^
-42091	<http://dbpedia.org/property/subject>"Fairy tales, voodoo and tourism
-;Characters
-: Granny Weatherwax, Nanny Ogg, Magrat Garlick
-;Locations
-: Genua, The Road From Lancre to Genua"^^
+42091	<http://dbpedia.org/property/subject>"Fairy tales, voodoo and tourism;Characters: Granny Weatherwax, Nanny Ogg, Magrat Garlick;Locations: Genua, The Road From Lancre to Genua"^^
 42092	<http://dbpedia.org/property/subject>"Family"^^
-42093	<http://dbpedia.org/property/subject>"Fantasy clichés
-;Characters
-: Rincewind, Twoflower, The Luggage, Cohen the Barbarian
-;Locations
-: Ankh-Morpork, Dungeon Dimensions"^^
-42094	<http://dbpedia.org/property/subject>"Fantasy clichés
-;Characters
-: Tiffany Aching, Nac Mac Feegle, Granny Aching, Miss Tick
-;Locations
-: The Chalk, Fairyland"^^
-42095	<http://dbpedia.org/property/subject>"Fantasy clichés
-;Characters
-: Tiffany Aching, Nac Mac Feegle, Mistress Weatherwax, Miss Level
-;Locations
-: The Chalk, The Ramtops"^^
-42096	<http://dbpedia.org/property/subject>"Fantasy clichés, Feminism
-;Characters
-: Eskarina Smith, Granny Weatherwax
-;Locations
-: Ankh-Morpork, Lancre"^^
-42097	<http://dbpedia.org/property/subject>"Fantasy clichés, Gods, Prometheus, Spaceflight, Apocalypse
-;Characters
-: Cohen the Barbarian, Lord Vetinari, Rincewind, Leonard of Quirm, Carrot Ironfoundersson
-;Locations
-: Cori Celesti, Ankh-Morpork"^^
-42098	<http://dbpedia.org/property/subject>"Fantasy clichés, Role-playing games
-;Characters
-: Rincewind, Twoflower, The Luggage
-;Locations
-: Ankh-Morpork, Krull"^^
-42099	<http://dbpedia.org/property/subject>"Fantasy, Beatrix Potter, The Pied Piper of Hamelin, The Secret of NIMH, Grimm's Fairy Tales
-;Characters
-: Maurice, Darktan, Dangerous Beans, Peaches, Malicia , Hamnpork, Sardines, Spider - a Rat King, Death of Rats, the Piper
-;Locations
-: Überwald: Bad Blintz"^^
-42100	<http://dbpedia.org/property/subject>"Fantasy, Redemption, Post office, Finance/Speculation
-;Characters
-: Moist von Lipwig
-;Locations
-: Ankh-Morpork"^^
-42101	<http://dbpedia.org/property/subject>"Fantasy, racism, trolls, dwarves, chess
-;Characters
-: Samuel Vimes, Ankh-Morpork City Watch
-;Locations
-: Ankh-Morpork, Koom Valley"^^
+42093	<http://dbpedia.org/property/subject>"Fantasy clichés, Feminism;Characters: Eskarina Smith, Granny Weatherwax;Locations: Ankh-Morpork, Lancre"^^
+42094	<http://dbpedia.org/property/subject>"Fantasy clichés, Gods, Prometheus, Spaceflight, Apocalypse;Characters: Cohen the Barbarian, Lord Vetinari, Rincewind, Leonard of Quirm, Carrot Ironfoundersson;Locations: Cori Celesti, Ankh-Morpork"^^
+42095	<http://dbpedia.org/property/subject>"Fantasy clichés, Role-playing games;Characters: Rincewind, Twoflower, The Luggage;Locations: Ankh-Morpork, Krull"^^
+42096	<http://dbpedia.org/property/subject>"Fantasy clichés;Characters: Rincewind, Twoflower, The Luggage, Cohen the Barbarian;Locations: Ankh-Morpork, Dungeon Dimensions"^^
+42097	<http://dbpedia.org/property/subject>"Fantasy clichés;Characters: Tiffany Aching, Nac Mac Feegle, Granny Aching, Miss Tick;Locations: The Chalk, Fairyland"^^
+42098	<http://dbpedia.org/property/subject>"Fantasy clichés;Characters: Tiffany Aching, Nac Mac Feegle, Mistress Weatherwax, Miss Level;Locations: The Chalk, The Ramtops"^^
+42099	<http://dbpedia.org/property/subject>"Fantasy, Beatrix Potter, The Pied Piper of Hamelin, The Secret of NIMH, Grimm's Fairy Tales;Characters: Maurice, Darktan, Dangerous Beans, Peaches, Malicia , Hamnpork, Sardines, Spider - a Rat King, Death of Rats, the Piper;Locations: Überwald: Bad Blintz"^^
+42100	<http://dbpedia.org/property/subject>"Fantasy, Redemption, Post office, Finance/Speculation;Characters: Moist von Lipwig;Locations: Ankh-Morpork"^^
+42101	<http://dbpedia.org/property/subject>"Fantasy, racism, trolls, dwarves, chess;Characters: Samuel Vimes, Ankh-Morpork City Watch;Locations: Ankh-Morpork, Koom Valley"^^
 42102	<http://dbpedia.org/property/subject>"Female sexual fantasies"^^
 42103	<http://dbpedia.org/property/subject>"Feminism, women's health, autobiography"^^
 42104	<http://dbpedia.org/property/subject>"Fiction"^^
@@ -42475,11 +42118,7 @@ The 1001 Before You Die series"^^
 42117	<http://dbpedia.org/property/subject>"Ice-Hockey"^^
 42118	<http://dbpedia.org/property/subject>"Illustrations of various Discworld characters"^^
 42119	<http://dbpedia.org/property/subject>"Immortality, aging, secrets"^^
-42120	<http://dbpedia.org/property/subject>"Imperial China, Sakoku
-;Characters
-: Rincewind, Twoflower, The Luggage, Cohen the Barbarian
-;Locations
-: Agatean Empire"^^
+42120	<http://dbpedia.org/property/subject>"Imperial China, Sakoku;Characters: Rincewind, Twoflower, The Luggage, Cohen the Barbarian;Locations: Agatean Empire"^^
 42121	<http://dbpedia.org/property/subject>"India journey to self-reliance in technology"^^
 42122	<http://dbpedia.org/property/subject>"India, art, poetry"^^
 42123	<http://dbpedia.org/property/subject>"Insects"^^
@@ -42507,28 +42146,16 @@ The 1001 Before You Die series"^^
 42145	<http://dbpedia.org/property/subject>"Mathematics"^^
 42146	<http://dbpedia.org/property/subject>"Memetics"^^
 42147	<http://dbpedia.org/property/subject>"Morality/Society"^^
-42148	<http://dbpedia.org/property/subject>"Movies and Hollywood; the Cthulhu Mythos; Atlantis
-;Characters
-: Victor Tugelbend, Theda Withel, C.M.O.T. Dibbler, Unseen University staff, Gaspode, Mustrum Ridcully
-;Locations
-: Ankh-Morpork, Holy Wood"^^
+42148	<http://dbpedia.org/property/subject>"Movies and Hollywood; the Cthulhu Mythos; Atlantis;Characters: Victor Tugelbend, Theda Withel, C.M.O.T. Dibbler, Unseen University staff, Gaspode, Mustrum Ridcully;Locations: Ankh-Morpork, Holy Wood"^^
 42149	<http://dbpedia.org/property/subject>"Musical autobiography"^^
 42150	<http://dbpedia.org/property/subject>"Narrative non-fiction"^^
 42151	<http://dbpedia.org/property/subject>"Nazi Germany"^^
 42152	<http://dbpedia.org/property/subject>"Nazi Germany, escaping the past, the power of fear"^^
 42153	<http://dbpedia.org/property/subject>"One Flew Over the Cuckoo's Nest by Ken Kesey"^^
-42154	<http://dbpedia.org/property/subject>"Opera, The Phantom of the Opera
-;Characters
-: Granny Weatherwax, Nanny Ogg, Agnes Nitt
-;Locations
-: Ankh-Morpork"^^
+42154	<http://dbpedia.org/property/subject>"Opera, The Phantom of the Opera;Characters: Granny Weatherwax, Nanny Ogg, Agnes Nitt;Locations: Ankh-Morpork"^^
 42155	<http://dbpedia.org/property/subject>"Parenthood, property, war"^^
 42156	<http://dbpedia.org/property/subject>"Parenting"^^
-42157	<http://dbpedia.org/property/subject>"Pastiches of famous paintings
-;Characters
-: Virtually all major characters, except the Discworld gods
-;Locations
-: Ankh-Morpork, Lancre, Death's Domain"^^
+42157	<http://dbpedia.org/property/subject>"Pastiches of famous paintings;Characters: Virtually all major characters, except the Discworld gods;Locations: Ankh-Morpork, Lancre, Death's Domain"^^
 42158	<http://dbpedia.org/property/subject>"Philosophy of language, logic"^^
 42159	<http://dbpedia.org/property/subject>"Philosophy"^^
 42160	<http://dbpedia.org/property/subject>"Philosophy, psychiatry"^^
@@ -42545,51 +42172,27 @@ The 1001 Before You Die series"^^
 42171	<http://dbpedia.org/property/subject>"Queen Noor of Jordan, King Hussein of Jordan and the Middle East"^^
 42172	<http://dbpedia.org/property/subject>"Race issues"^^
 42173	<http://dbpedia.org/property/subject>"Racism and Colonialism, Violence, Post-colonialism, Third-world development, Revolution"^^
-42174	<http://dbpedia.org/property/subject>"Religion, Philosophy
-;Characters
-: Brutha, Om
-;Locations
-: Omnia, Ephebe"^^
+42174	<http://dbpedia.org/property/subject>"Religion, Philosophy;Characters: Brutha, Om;Locations: Omnia, Ephebe"^^
 42175	<http://dbpedia.org/property/subject>"Representation"^^
 42176	<http://dbpedia.org/property/subject>"Rumours, lies, gossip, reputation, friendship, women, lesbianism, homophobia"^^
 42177	<http://dbpedia.org/property/subject>"Sadako 1000 Paper Cranes"^^
 42178	<http://dbpedia.org/property/subject>"Science Fiction / Linguistics"^^
 42179	<http://dbpedia.org/property/subject>"Science fiction"^^
-42180	<http://dbpedia.org/property/subject>"Scientific theories
-;Characters
-: Unseen University Staff, Charles Darwin, Auditors of Reality
-;Locations
-: Roundworld"^^
+42180	<http://dbpedia.org/property/subject>"Scientific theories;Characters: Unseen University Staff, Charles Darwin, Auditors of Reality;Locations: Roundworld"^^
 42181	<http://dbpedia.org/property/subject>"Secondary education"^^
 42182	<http://dbpedia.org/property/subject>"Self-help"^^
 42183	<http://dbpedia.org/property/subject>"Self-help, spirituality"^^
 42184	<http://dbpedia.org/property/subject>"Self-improvement/philosophy & morality; publisher description: "Psychology/Social Commentary""^^
-42185	<http://dbpedia.org/property/subject>"Shakespeare, Crop circles, Fairy lore
-;Characters
-: Granny Weatherwax, Nanny Ogg, Magrat Garlick, Unseen University staff
-;Locations
-: Lancre"^^
-42186	<http://dbpedia.org/property/subject>"Shakespeare, especially Macbeth and Hamlet
-;Characters
-: Granny Weatherwax, Nanny Ogg, Magrat Garlick, Verence the Fool
-;Locations
-: Lancre"^^
+42185	<http://dbpedia.org/property/subject>"Shakespeare, Crop circles, Fairy lore;Characters: Granny Weatherwax, Nanny Ogg, Magrat Garlick, Unseen University staff;Locations: Lancre"^^
+42186	<http://dbpedia.org/property/subject>"Shakespeare, especially Macbeth and Hamlet;Characters: Granny Weatherwax, Nanny Ogg, Magrat Garlick, Verence the Fool;Locations: Lancre"^^
 42187	<http://dbpedia.org/property/subject>"Show dog  breeding"^^
 42188	<http://dbpedia.org/property/subject>"Social responsibility of scientists"^^
 42189	<http://dbpedia.org/property/subject>"Space Colonization Advocacy"^^
 42190	<http://dbpedia.org/property/subject>"Spiritual guide to contemplative prayer"^^
-42191	<http://dbpedia.org/property/subject>"Stories
-;Characters
-: Rincewind, Unseen University Staff, Hex, Granny Weatherwax
-;Locations
-: Unseen University, Roundworld"^^
+42191	<http://dbpedia.org/property/subject>"Stories;Characters: Rincewind, Unseen University Staff, Hex, Granny Weatherwax;Locations: Unseen University, Roundworld"^^
 42192	<http://dbpedia.org/property/subject>"Strategy, self-help, philosophy"^^
 42193	<http://dbpedia.org/property/subject>"Taoism, Philosophy"^^
-42194	<http://dbpedia.org/property/subject>"The Hobbit, particularly Smaug.
-;Characters
-: Samuel Vimes, Fred Colon, Nobby Nobbs, Carrot Ironfoundersson, Havelock Vetinari, Sybil Ramkin
-;Locations
-: Ankh-Morpork"^^
+42194	<http://dbpedia.org/property/subject>"The Hobbit, particularly Smaug.;Characters: Samuel Vimes, Fred Colon, Nobby Nobbs, Carrot Ironfoundersson, Havelock Vetinari, Sybil Ramkin;Locations: Ankh-Morpork"^^
 42195	<http://dbpedia.org/property/subject>"The awakening of a middle-class wife and mother."^^
 42196	<http://dbpedia.org/property/subject>"The creation of Narnia"^^
 42197	<http://dbpedia.org/property/subject>"The legends of King Arthur"^^
@@ -42601,27 +42204,15 @@ The 1001 Before You Die series"^^
 42203	<http://dbpedia.org/property/subject>"Tragicomedy"^^
 42204	<http://dbpedia.org/property/subject>"United States History, Native Americans"^^
 42205	<http://dbpedia.org/property/subject>"Value and Natural law"^^
-42206	<http://dbpedia.org/property/subject>"Vampire novels, youth culture, and multiple personality disorder
-;Characters
-: Granny Weatherwax, Nanny Ogg, Agnes Nitt
-;Locations
-: Lancre"^^
+42206	<http://dbpedia.org/property/subject>"Vampire novels, youth culture, and multiple personality disorder;Characters: Granny Weatherwax, Nanny Ogg, Agnes Nitt;Locations: Lancre"^^
 42207	<http://dbpedia.org/property/subject>"Vampires, Supernatural"^^
 42208	<http://dbpedia.org/property/subject>"Vampires, Witches"^^
 42209	<http://dbpedia.org/property/subject>"Victorian English life"^^
 42210	<http://dbpedia.org/property/subject>"Vietnam War, cold case murders"^^
 42211	<http://dbpedia.org/property/subject>"Western Philosophy, History"^^
 42212	<http://dbpedia.org/property/subject>"Witchcraft"^^
-42213	<http://dbpedia.org/property/subject>"Wizards and sorcery; Apocalypse
-;Characters
-: Rincewind
-;Locations
-: Ankh-Morpork, Klatch"^^
-42214	<http://dbpedia.org/property/subject>"Wuxia and Martial arts films, Apocalypse, Momo, Matrix
-;Characters
-: Death, Susan, Lu-Tze, Jeremy Clockson, Lobsang Ludd, Nanny Ogg
-;Locations
-: Ankh-Morpork, Ramtops"^^
+42213	<http://dbpedia.org/property/subject>"Wizards and sorcery; Apocalypse;Characters: Rincewind;Locations: Ankh-Morpork, Klatch"^^
+42214	<http://dbpedia.org/property/subject>"Wuxia and Martial arts films, Apocalypse, Momo, Matrix;Characters: Death, Susan, Lu-Tze, Jeremy Clockson, Lobsang Ludd, Nanny Ogg;Locations: Ankh-Morpork, Ramtops"^^
 42215	<http://dbpedia.org/property/subject>"an autobiographical account of his explosive home life with by a drug-addicted mother."^^
 42216	<http://dbpedia.org/property/subject>"book"^^
 42217	<http://dbpedia.org/property/subject>"cosmetics"^^
@@ -42632,19 +42223,11 @@ The 1001 Before You Die series"^^
 42222	<http://dbpedia.org/property/subject>"law"^^
 42223	<http://dbpedia.org/property/subject>"love, death, growing up"^^
 42224	<http://dbpedia.org/property/subject>"philosophy/psychology"^^
-42225	<http://dbpedia.org/property/subject>"picture books
-;Characters
-: Samuel Vimes, Young Sam
-;Locations
-: Ankh-Morpork"^^
+42225	<http://dbpedia.org/property/subject>"picture books;Characters: Samuel Vimes, Young Sam;Locations: Ankh-Morpork"^^
 42226	<http://dbpedia.org/property/subject>"romance, mystery"^^
 42227	<http://dbpedia.org/property/subject>"song lyrics"^^
 42228	<http://dbpedia.org/property/subject>"street gangs, prison"^^
-42229	<http://dbpedia.org/property/subject>"the Napoleonic Wars, World War I, feminism
-;Characters
-: Polly Perks, Corporal Strappi, Lt. Blouse, Sgt. Jackrum, Igorina, Sam Vimes
-;Locations
-: Borogravia"^^
+42229	<http://dbpedia.org/property/subject>"the Napoleonic Wars, World War I, feminism;Characters: Polly Perks, Corporal Strappi, Lt. Blouse, Sgt. Jackrum, Igorina, Sam Vimes;Locations: Borogravia"^^
 42230	<http://dbpedia.org/property/subject>"the aftereffects of psychological damage of people in a country emerging from totalitarian dictatorship"^^
 42231	<http://dbpedia.org/property/subject>"the alphabet"^^
 42232	<http://dbpedia.org/property/subject>"the lives of spirited boarders in a lodging house"^^
@@ -43005,11 +42588,7 @@ The 1001 Before You Die series"^^
 42587	<http://dbpedia.org/property/text>"Laney’s node-spotter function is some sort of metaphor for whatever it is that I actually do. There are bits of the literal future right here, right now, if you know how to look for them. Although I can’t tell you how; it’s a non-rational process."^^
 42588	<http://dbpedia.org/property/text>"Most of the criticism seemed emotional beyond the importance and danger of the play"^^
 42589	<http://dbpedia.org/property/text>"On an exceptionally hot evening early in July a young man came out of the garret in which he lodged in S. Place and walked slowly, as though in hesitation, towards K. bridge."^^
-42590	<http://dbpedia.org/property/text>"Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo ...
-
-His father told him that story: his father looked at him through a glass: he had a hairy face.
-
-He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt."^^
+42590	<http://dbpedia.org/property/text>"Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo ...His father told him that story: his father looked at him through a glass: he had a hairy face.He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt."^^
 42591	<http://dbpedia.org/property/text>"Several persons, for whose judgment I have the highest respect, while saying very kind things about this book, have added, that the great fault of it is 'too much preaching'; but they hope I shall amend in this matter should I ever write again. Now this I most distinctly decline to do. Why, my whole object in writing at all was to get the chance of preaching! When a man comes to my time of life and has his bread to make, and very little time to spare, is it likely that he will spend almost the whole of his yearly vacation in writing a story just to amuse people? I think not. At any rate, I wouldn't do so myself.''"^^
 42592	<http://dbpedia.org/property/text>"Such was the end of the Ingenious Gentleman of La Mancha, whose village Cide Hamete would not indicate precisely, in order to leave all the towns and villages of La Mancha to contend among themselves for the right to adopt him and claim him as a son, as the seven cities of Greece contended for Homer."^^
 42593	<http://dbpedia.org/property/text>"The golden apples of the sun."^^
@@ -44846,9 +44425,8 @@ He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she s
 44424	<http://dbpedia.org/property/translator>"William Brand"^^
 44425	<http://dbpedia.org/property/translator>"William Lackland"^^
 44426	<http://dbpedia.org/property/translator>"William M. Hutchins, Olive E. Kenny"^^
-44427	<http://dbpedia.org/property/translator>"William R. Brand and Katarzyna Mroczkowska-Brand
-Translator, translated  the English version of Shah of Shahs in Persian"^^
-44428	<http://dbpedia.org/property/translator>"William R. Brand and Katarzyna Mroczkowska-Brand"^^
+44427	<http://dbpedia.org/property/translator>"William R. Brand and Katarzyna Mroczkowska-Brand"^^
+44428	<http://dbpedia.org/property/translator>"William R. Brand and Katarzyna Mroczkowska-BrandTranslator, translated  the English version of Shah of Shahs in Persian"^^
 44429	<http://dbpedia.org/property/translator>"Zach Hays"^^
 44430	<http://dbpedia.org/property/translator>"filipino"^^
 44431	<http://dbpedia.org/property/translator>"first version A. A. Brill"^^
