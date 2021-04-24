@@ -15,7 +15,7 @@ experiment:
       side_information:
         map: /content/elliot/data/movielens_exp/side_informations/map_movielens.tsv
         features: /content/elliot/data/movielens_exp/side_informations/feat_movielens.tsv
-        properties: /content/elliot/data/movielens_exp/side_informations/properties.conf
+        properties: /content/elliot/data/movielens_exp/side_informations/properties_movielens.conf
 
   top_k: 3100  # takes an int representing the list length
   evaluation:
