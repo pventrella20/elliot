@@ -19,6 +19,8 @@ from elliot.recommender.NN.item_knn.item_knn_similarity import Similarity
 from elliot.recommender.NN.item_knn.aiolli_ferrari import AiolliSimilarity
 from elliot.recommender.base_recommender_model import init_charger
 
+from elliot.recommender.test_item_strategy import test_item_only_filter
+
 np.random.seed(42)
 
 
@@ -63,7 +65,8 @@ class ItemKNN(RecMixin, BaseRecommenderModel):
             self._model = Similarity(self._data, self._num_neighbors, self._similarity)
 
     def get_recommendations(self, k: int = 100):
-        return {u: self._model.get_user_recs(u, k) for u in self._ratings.keys()}
+        predictions_at_k = {u: self._model.get_user_recs(u, k) for u in self._ratings.keys()}
+        return test_item_only_filter(predictions_at_k, self._data.test_dict)
 
     @property
     def name(self):

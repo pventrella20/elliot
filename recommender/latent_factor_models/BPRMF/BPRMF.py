@@ -18,6 +18,9 @@ from elliot.recommender.base_recommender_model import init_charger
 from elliot.recommender.recommender_utils_mixin import RecMixin
 from elliot.utils.write import store_recommendation
 
+from elliot.recommender.test_item_strategy import test_item_only_filter
+
+
 np.random.seed(42)
 
 
@@ -201,7 +204,8 @@ class BPRMF(RecMixin, BaseRecommenderModel):
         self._sampler = ps.Sampler(self._ratings, self._data.users, self._data.items)
 
     def get_recommendations(self, k: int = 100):
-        return {u: self._model.get_user_recs(u, k) for u in self._ratings.keys()}
+        predictions_at_k = {u: self._model.get_user_recs(u, k) for u in self._ratings.keys()}
+        return test_item_only_filter(predictions_at_k, self._data.test_dict)
 
     def predict(self, u: int, i: int):
         """
